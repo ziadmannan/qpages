@@ -1,0 +1,8 @@
+services:
+  web-server:
+    image: nginx:alpine
+    container_name: qpages-server
+    ports:
+      - "8081:80"
+    volumes:
+      - .:/usr/share/nginx/html:ro
