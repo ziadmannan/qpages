@@ -2,7 +2,7 @@
   "name": "Quran Pages Summary",
   "short_name": "Quran Pages",
   "description": "Page by page summary of the Madina Mushaf.",
-  "start_url": "./index.html",
+  "start_url": "./index.html#home",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2e7d32",

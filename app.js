@@ -68,7 +68,12 @@ async function initApp() {
             return { title, content };
         });
 
-        history.replaceState({ view: 'home' }, '', '#home');
+        // Ensure the current view is at the bottom of the stack
+        // This creates a "history" even on the first load
+        if (history.state?.view !== 'home') {
+            history.pushState({ view: 'home' }, '', '#home');
+        }
+
         showHome(true);
     } catch (err) {
         document.getElementById('loader').innerText = "Error loading data.md";

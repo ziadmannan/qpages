@@ -11,11 +11,23 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="apple-touch-icon" href="icon-192.png">
+
+    <script>
+        function goBack() {
+            // If the browser history has entries, go back.
+            // Otherwise, force showHome to prevent the app from closing.
+            if (window.history.length > 1) {
+                history.back();
+            } else {
+                showHome(true);
+            }
+        }
+    </script>
 </head>
 <body>
     <div id="app">
         <header id="main-header" class="hidden">
-            <button onclick="history.back()">← Back</button>
+            <button onclick="goBack()">← Back</button>
             <h1 id="juz-title">Juz</h1>
             <div style="width: 50px;"></div> </header>
 
