@@ -38,14 +38,54 @@ renderer.heading = ({ text, depth }) => {
 /* --- Intersection Observer (Bookmarking) --- */
 const observerOptions = {
     root: null,
-    rootMargin: '-70px 0px -80% 0px',
-    threshold: 0
+    // This creates a detection zone that covers the top 40% of the viewport.
+    // If a header is anywhere in this zone, it's considered the "active" page.
+    rootMargin: '-10% 0px -60% 0px',
+    threshold: [0, 0.1, 0.5, 1.0] // Multiple thresholds make it more sensitive
 };
 
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
+        // We look for 'isIntersecting' which works both ways (scrolling up or down)
         if (entry.isIntersecting && currentJuzIndex !== -1) {
             const pageNum = entry.target.getAttribute('data-page');
+            const juzTitle = juzData[currentJuzIndex].title;
+
+            // Check if we actually need to update to avoid redundant writes
+            const lastRead = JSON.parse(localStorage.getItem('lastRead'));
+            if (!lastRead || lastRead.page !== pageNum || lastRead.index !== currentJuzIndex) {
+                localStorage.setItem('lastRead', JSON.stringify({
+                    index: currentJuzIndex,
+                    title: juzTitle,
+                    page: pageNum
+                }));
+                // Console log helps you verify it's working during testing
+                console.log(`Bookmarked: Page ${pageNum}`);
+            }
+        }
+    });
+}, observerOptions);
+
+// Fail-safe: Periodically check position if observer misses a beat
+let scrollTimeout;
+window.addEventListener('scroll', () => {
+    clearTimeout(scrollTimeout);
+    scrollTimeout = setTimeout(() => {
+        if (currentJuzIndex === -1) return;
+
+        const headers = document.querySelectorAll('.page-header');
+        let currentActiveHeader = null;
+
+        headers.forEach(header => {
+            const rect = header.getBoundingClientRect();
+            // If the header is near the top of the viewport (taking sticky header into account)
+            if (rect.top <= 100 && rect.top > -50) {
+                currentActiveHeader = header;
+            }
+        });
+
+        if (currentActiveHeader) {
+            const pageNum = currentActiveHeader.getAttribute('data-page');
             const juzTitle = juzData[currentJuzIndex].title;
             localStorage.setItem('lastRead', JSON.stringify({
                 index: currentJuzIndex,
@@ -53,8 +93,8 @@ const observer = new IntersectionObserver((entries) => {
                 page: pageNum
             }));
         }
-    });
-}, observerOptions);
+    }, 150); // Checks 150ms after you stop scrolling
+});
 
 /* --- Router Logic --- */
 window.addEventListener('hashchange', handleRouting);
@@ -142,6 +182,40 @@ function renderJuzUI(index, targetPage = null) {
     }
 }
 
+function showInstallBanner() {
+    // Don't show if already installed or if the banner exists
+    if (window.matchMedia('(display-mode: standalone)').matches || document.getElementById('install-banner')) {
+        return;
+    }
+
+    const banner = document.createElement('div');
+    banner.id = 'install-banner';
+    banner.innerHTML = `
+        <div class="install-content">
+            <span>Install "Quran Page" for the full experience</span>
+            <div class="install-actions">
+                <button id="install-btn">Install</button>
+                <button id="close-install">✕</button>
+            </div>
+        </div>
+    `;
+    document.body.appendChild(banner);
+
+    document.getElementById('install-btn').addEventListener('click', async () => {
+        if (deferredPrompt) {
+            deferredPrompt.prompt();
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`User response to install: ${outcome}`);
+            deferredPrompt = null;
+            banner.remove();
+        }
+    });
+
+    document.getElementById('close-install').addEventListener('click', () => {
+        banner.remove();
+    });
+}
+
 /* --- Initialization --- */
 async function initApp() {
     try {
@@ -179,6 +253,18 @@ document.addEventListener('touchend', e => {
             window.location.hash = `#juz-${currentJuzIndex - 1}`;
         }
     }
+});
+
+/* --- Installation Logic --- */
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+    // Prevent the mini-infobar from appearing on mobile
+    e.preventDefault();
+    // Stash the event so it can be triggered later.
+    deferredPrompt = e;
+    // Delay the prompt slightly so it doesn't annoy the user immediately on load
+    setTimeout(showInstallBanner, 2000);
 });
 
 // PWA Service Worker Registration
