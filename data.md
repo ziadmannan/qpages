@@ -1541,3 +1541,570 @@
 - They said: "Do not go forth in the heat." Say: "The fire of Hell is more intense."
 - Let them laugh a little and weep much as a recompense for what they earned.
 - If Allah brings you back, say to the hypocrites: "You shall never go out with me."
+
+* * *
+
+# Juz 11
+## Page 202 (9:94–99)
+- **Context**: The return from the Tabuk expedition.
+- The hypocrites offer excuses; Allah tells the Prophet not to accept them, for He knows their true nature.
+- They swear by Allah to be left alone; they are described as a "defilement" whose home is Hell.
+- The nomads (Bedouins) are categorized: some see charity as a loss/fine, while others see it as a means of nearness to Allah.
+
+## Page 203 (9:100–106)
+-  The high status of the **Sabiqoon** (the first to embrace Islam) among the Muhajirun and Ansar.
+- Warning about the "experts in hypocrisy" in Madinah and the surrounding desert.
+- Others acknowledge their sins (mixing good and bad deeds); Allah may turn to them in mercy.
+- Command to take **Zakat** from their wealth to purify and sanctify them.
+
+## Page 204 (9:107–111)
+-  The story of **Masjid ad-Dirar**: Built by hypocrites to cause division; the Prophet is forbidden from praying there.
+- A mosque founded on **Taqwa** (piety) from the first day is more worthy of standing in.
+- The "Great Bargain": Allah has purchased from the believers their lives and property in exchange for Paradise.
+
+## Page 205 (9:112–117)
+-  Nine attributes of the true believers (those who repent, worship, fast, etc.).
+- Prohibition of seeking forgiveness for polytheists after it is clear they are people of Hell.
+- Clarification on Ibrahim's prayer for his father—it was a promise, but he disassociated once the enmity to Allah was clear.
+- Allah's mercy toward the Prophet and the companions during the "Hour of Difficulty."
+
+## Page 206 (9:118–122)
+-  The story of the **three who stayed behind** (Ka'b bin Malik and his companions); they were forgiven after the earth felt "narrow" for them due to their guilt.
+- The merit of every step, hunger, and expense endured in the way of Allah.
+- The command for a group to remain behind during expeditions to **study the religion** (Tafaqquh fid-Deen) and teach their people.
+
+## Page 207 (9:123–129)
+-  Instructions on dealing with the disbelievers near the borders.
+- How the revelation affects hearts: it increases the believers in faith, while the hypocrites only gain more "defilement."
+- **The Final Verses of Surah At-Tawbah**: Description of the Prophet's immense care and mercy for the believers.
+- The command to say: _"Hasbiyallahu la ilaha illa Huwa"_ (Allah is sufficient for me).
+
+## Page 208 (10:1–6)
+-  **Start of Surah Yunus**: Alif-Lam-Ra. The wisdom of the Book.
+- Addressing the people's wonder that a human Messenger was chosen.
+- Allah is the Creator who regulates all affairs; He begins creation and repeats it.
+- Signs of Allah in the sun's radiance, the moon's light, and the calculation of years.
+
+## Page 209 (10:7–14)
+-  The contrast between those who desire only this life and those who believe and do good.
+- The "Call of the People of Paradise": _Subhanakallahumma_ (Glory be to You, O Allah).
+- Man's tendency to call Allah in distress but forget Him once the hardship is removed.
+- A warning to current generations based on the destruction of previous ones who wronged.
+
+## Page 210 (10:15–20)
+-  The disbelievers demand a "different Quran" or a change to the current one.
+- The Prophet's response: "It is not for me to change it of my own accord."
+- Critique of Shirk: worshipping what neither harms nor benefits.
+- Mankind was originally one nation before they differed.
+
+## Page 211 (10:21–25)
+-  Allah is swifter in planning against those who plot against His signs.
+- The scene of people in a boat during a storm; they turn to Allah sincerely, but return to rebellion on land.
+- The parable of worldly life: lush vegetation that is suddenly turned to stubble.
+- Allah invites to **Dar-as-Salam** (The Home of Peace).
+
+## Page 212 (10:26–33)
+-  The reward of **Al-Husna** (Paradise) and "more" (seeing Allah) for the righteous.
+- The scene on Judgment Day when false gods will disown their worshippers.
+- Rhetorical questions: "Who provides for you from the sky and the earth?"
+- Confirming that the "Word of your Lord" has come true against the defiantly disobedient.
+
+## Page 213 (10:34–42)
+-  Challenge to the polytheists: Can their partners begin or repeat creation?
+- Conjecture (Zann) is no substitute for the Truth.
+- Challenge to produce a Surah like the Quran if they claim it is fabricated.
+- The psychological state of the deniers: they deny what they do not encompass in knowledge.
+
+## Page 214 (10:43–53)
+-  Can you guide the blind or make the deaf hear? Allah does not wrong mankind; they wrong themselves.
+- The brevity of life: on the Day of Judgment, it will feel as if they stayed for only "an hour."
+- Every nation was sent a Messenger; judgment is passed with justice.
+- The disbelievers mockingly ask "When is the promise?"
+
+## Page 215 (10:54–61)
+-  Every soul that wronged would offer the whole earth as a ransom if it could.
+- **The Four Gifts of the Quran**: 1. Admonition, 2. Healing for the hearts, 3. Guidance, 4. Mercy.
+- Rejoicing should be in Allah’s bounty and mercy, not in worldly accumulation.
+- Allah is a witness over every action, even the weight of an atom.
+
+## Page 216 (10:62–70)
+-  The definition of **Awliya Allah** (Allies/Friends of Allah): those who believe and have Taqwa.
+- They are promised glad tidings in this life and the next.
+- Refuting the claim that Allah has taken a son; He is the Self-Sufficient (Al-Ghani).
+
+## Page 217 (10:71–78)
+-  The Story of **Nuh**: His challenge to his people and his trust in Allah.
+- The aftermath: Nuh and his followers saved in the Ark; the deniers drowned.
+- Brief mention of Messengers after Nuh.
+- The arrival of **Musa and Harun** at Pharaoh’s court; they are accused of "clear magic."
+
+## Page 218 (10:79–88)
+-  The confrontation with the magicians. Musa’s confidence: "What you have brought is magic; Allah will nullify it."
+- Only a few youths among Musa's people believed due to the tyranny of Pharaoh.
+- Musa and Harun are told to appoint "houses of worship" (Qiblah) for their people in Egypt and establish prayer.
+
+## Page 219 (10:89–97)
+-  Allah accepts the prayer of Musa and Harun.
+- The parting of the sea.
+- **The Death of Pharaoh**: His last-minute "faith" is rejected, but his body is preserved as a sign for future generations.
+- A reminder that those against whom the "Word of the Lord" has been justified will not believe, even if every sign came to them.
+
+## Page 220 (10:98–106)
+-  **The Exception**: The people of **Yunus** believed and were spared the punishment.
+- If Allah had willed, everyone on earth would have believed; the Prophet is told not to compel them.
+- No soul can believe except by Allah's permission.
+- The Prophet’s declaration: "I worship the One who causes you to die."
+
+## Page 221 (10:107–11:5)
+-  **End of Surah Yunus**: If Allah touches you with harm, none can remove it but He.
+- **Start of Surah Hud**: Alif-Lam-Ra. A Book whose verses are perfected and explained.
+- The message: Worship none but Allah; seek His forgiveness and repent.
+- Allah's knowledge is absolute; He knows what is hidden in the chests.
+
+* * *
+
+# Juz 12
+
+## Page 222 (11:6–12)
+- **Provision**: Every creature on earth has its provision guaranteed by Allah; He knows its dwelling and its repository.
+- **Creation**: The heavens and earth were created in six days—His Throne was upon the water—to test who is best in deed.
+- **Resurrection**: Disbelievers dismiss the idea of being raised after death as "clear magic."
+- **The Prophet's Burden**: A reminder to the Prophet not to be distressed by their demands for "treasures" or "angels"; he is only a warner.
+
+## Page 223 (11:13–19)
+- **The Challenge**: If they claim the Quran is fabricated, let them produce ten fabricated Surahs like it and call upon whom they can besides Allah.
+- **Worldly Desire**: Those who desire only this life will be paid in full here, but will have nothing but the Fire in the Hereafter.
+- **The Clear Proof**: Contrast between those who have a "Clear Proof" from their Lord and those who hinder others from Allah's path.
+
+## Page 224 (11:20–28)
+- **The Losers**: Those who could not hear or see the truth; their lies will fail them on Judgment Day.
+- **The Believers**: Those who believe, do good, and humble themselves before their Lord are the companions of Paradise.
+- **Nuh’s Mission**: Nuh is sent to his people. The arrogant chiefs reject him because he is "just a man" and his followers are the "lowest" among them.
+
+## Page 225 (11:29–37)
+- **Nuh’s Sincerity**: He asks for no wealth; his reward is with Allah. He refuses to drive away the poor believers.
+- **The People’s Defiance**: They challenge Nuh to bring the punishment he threatens.
+- **The Command**: Allah reveals that no more of his people will believe. Nuh is commanded to build the **Ark** under Allah’s "Eyes" and revelation.
+
+## Page 226 (11:38–45)
+- **Construction**: As Nuh builds, the chiefs mock him. He replies that the mockery will soon be turned upon them.
+- **The Flood**: The "oven gushed forth" (the sign to start). Nuh loads two of every species and his family (except those decreed otherwise).
+- **The Son**: Nuh calls his son to join them, but the son seeks refuge on a mountain and is drowned.
+
+## Page 227 (11:46–53)
+- **Allah’s Admonition**: Allah informs Nuh that his son was "not of his family" because of his unrighteous deeds. Nuh seeks forgiveness for his plea.
+- **Aftermath**: The Ark settles on **Mount Judi**. Nuh is told to disembark with peace and blessings.
+- **Hud and 'Aad**: The story moves to the people of 'Aad. Hud calls them to worship Allah alone and seek forgiveness for strength and rain.
+
+## Page 228 (11:54–62)
+-  **'Aad's Rejection**: They accuse Hud of being possessed by their gods. Hud challenges them to plot against him, trusting only in Allah.
+- **Destruction**: The command of Allah comes; Hud and the believers are saved, while 'Aad are destroyed for following every stubborn tyrant.
+- **Salih and Thamud**: Salih is sent to Thamud. He reminds them that Allah produced them from the earth and settled them in it.
+
+## Page 229 (11:63–71)
+-  **The She-Camel**: Salih presents the she-camel as a "Sign from Allah." He warns them not to harm her.
+- **The Sin**: They hamstring her. Salih gives them three days of enjoyment before the "unfailing promise" of punishment.
+- **Thamud’s End**: A "shriek" seizes the wrongdoers, leaving them prostrate in their homes.
+- **Ibrahim’s Guests**: Angels visit Ibrahim; he hosts them with a roasted calf but becomes afraid when they do not eat.
+
+## Page 230 (11:72–81)
+-  **Glad Tidings**: The angels give Ibrahim and his wife (Sarah) news of **Ishaq**, and after him, **Yaqub**.
+- **Ibrahim’s Plea**: He tries to argue/plead for the people of Lut, but the angels say the command is final.
+- **Lut’s Distress**: The angels arrive at Lut’s home. The wicked men of the city rush to the house; Lut offers his "daughters" (marriage) to protect his guests.
+
+## Page 231 (11:82–88)
+-  **Sodom’s Destruction**: The city is turned upside down and rained with marked stones of clay.
+- **Shu’ayb and Madyan**: Shu’ayb is sent to Madyan. He commands justice in weights and measures: **"That which remains with Allah (Halal) is better for you."**
+- **The People’s Mockery**: They ask if his "prayer" commands him to tell them what to do with their wealth.
+
+## Page 232 (11:89–97)
+-  **Shu’ayb’s Warning**: He tells them not to let their hatred for him lead them to the fate of Nuh, Hud, or Salih.
+- **Madyan’s End**: The arrogant threaten to stone him, but for his family. The "shriek" eventually takes them, just as it did Thamud.
+- **Musa and Pharaoh**: A brief mention of Musa being sent with "manifest authority" to Pharaoh, who misled his people.
+
+## Page 233 (11:98–108)
+-  **The Day of Gathering**: Pharaoh will lead his people into the Fire.
+- **Lessons from Cities**: Some are still standing, some mown down. Allah did not wrong them; they wronged themselves.
+- **The Wretched and the Happy**: On the Day of Judgment, some will be wretched (in the Fire) and some happy (in Paradise), abiding there as long as the heavens and earth endure.
+
+## Page 234 (11:109–117)
+-  **Steadfastness**: The Prophet is commanded to stand firm (Istiqamah) as ordered.
+- **The Prohibitions**: Do not incline toward the wrongdoers, lest the Fire touch you.
+- **Prayer**: Establish prayer at the ends of the day and during the night. **"Good deeds do away with evil deeds."**
+- **Justice**: Cities are not destroyed by Allah as long as their people are reformers.
+
+## Page 235 (11:118–12:4)
+-  **Surah Hud Conclusion**: If Allah willed, He would have made mankind one nation. The purpose of these stories is to strengthen the Prophet's heart.
+- **Start of Surah Yusuf**: Alif-Lam-Ra. These are verses of the "Clear Book" revealed in Arabic for understanding.
+- **Ahsan al-Qasas**: Allah describes this as the "Best of Stories."
+- **The Dream**: Young Yusuf tells his father, Yaqub, he saw eleven stars, the sun, and the moon prostrating to him.
+
+## Page 236 (12:5–14)
+-  **The Warning**: Yaqub tells Yusuf not to tell his brothers about the dream, fearing their plot.
+- **The Conspiracy**: The brothers feel Yusuf and his brother (Binyamin) are more loved by their father. They plot to kill Yusuf or cast him away.
+- **The Well**: One brother suggests throwing him into the "bottom of the well" so a caravan might pick him up. They convince Yaqub to let Yusuf go with them.
+
+## Page 237 (12:15–22)
+-  **The Betrayal**: They put Yusuf in the well. Allah reveals to Yusuf that he will one day inform them of this.
+- **The False News**: They return at night weeping, showing a shirt with "false blood," claiming a wolf ate him. Yaqub says, **"Beautiful patience (Sabrun Jamil) is best."**
+- **The Caravan**: Yusuf is found and sold into slavery for a "cheap price." He is bought by the **Aziz of Egypt**, who treats him honorably.
+
+## Page 238 (12:23–30)
+-  **The Temptation**: The wife of the Aziz tries to seduce Yusuf. He seeks refuge in Allah.
+- **The Evidence**: They race to the door; she tears his shirt from the back. A witness proves Yusuf's innocence because the shirt was torn from the back.
+- **Gossip**: The women of the city begin to mock the wife of the Aziz for being "infatuated" with her slave.
+
+## Page 239 (12:31–37)
+-  **The Banquet**: To answer the gossip, she invites the women and gives them knives. When Yusuf appears, they are so stunned they cut their hands, calling him a "noble angel."
+- **The Prison**: Despite his innocence being clear, to save face, they decide to imprison Yusuf.
+- **Cellmates**: Two young men enter prison with him and ask him to interpret their dreams.
+
+## Page 240 (12:38–43)
+-  **Dawah in Prison**: Before interpreting, Yusuf tells them about the religion of his fathers (Ibrahim, Ishaq, Yaqub) and the Oneness of Allah.
+- **Interpretation**: One will be crucified; the other will serve wine to his master.
+- **The King’s Dream**: Years later, the King of Egypt sees seven fat cows being eaten by seven lean ones, and seven green ears of grain and seven dry ones.
+
+## Page 241 (12:44–52)
+-  **The Call for Yusuf**: The cupbearer remembers Yusuf and goes to the prison.
+- **The Plan**: Yusuf interprets the dream as seven years of harvest followed by seven of famine. He advises them on how to store the grain.
+- **Exoneration**: The King sends for Yusuf. Yusuf refuses to leave until the case of the women (the Aziz's wife) is cleared. The women confess the truth.
+
+* * *
+
+# Juz 13
+
+## Page 242 (12:53–63)
+-  **Yusuf's Humility**: Yusuf acknowledges that the soul is prone to evil except by Allah's mercy.
+- **Elevation**: The King is impressed by Yusuf’s trustworthiness and appoints him over the storehouses (finance/agriculture) of Egypt.
+- **The Meeting**: During the famine, Yusuf’s brothers come for grain; he recognizes them, but they do not recognize him.
+- **The Condition**: He gives them their portion but demands they bring their younger brother (Binyamin) next time, or they will receive no more grain.
+
+## Page 243 (12:64–69)
+-  **Yaqub’s Hesitation**: The brothers ask their father for Binyamin. Yaqub reminds them of what happened to Yusuf but ultimately trusts Allah, the Best of Guardians.
+- **The Refund**: They find their payment returned in their bags, which they use to convince Yaqub to let Binyamin go.
+- **The Covenant**: Yaqub takes a solemn oath from them to protect Binyamin unless they are completely overwhelmed.
+
+## Page 244 (12:70–78)
+-  **The Plan**: Yusuf secretly places the King’s drinking cup in Binyamin’s saddlebag.
+- **The Accusation**: An announcer cries out that the caravan has stolen. The brothers, confident in their innocence, suggest that the thief should be taken as a slave (their own law).
+- **The Discovery**: Yusuf searches the bags and "finds" the cup in Binyamin’s bag. The brothers are shocked and try to distance themselves by mentioning Yusuf's "past theft."
+
+## Page 245 (12:79–86)
+-  **The Plea**: The brothers beg Yusuf to take one of them instead of Binyamin, but Yusuf refuses to take anyone but the "thief."
+- **The Eldest's Shame**: The oldest brother refuses to leave Egypt because of his broken oath to his father.
+- **Yaqub’s Grief**: Upon hearing the news, Yaqub’s grief is renewed; he weeps until he loses his sight. He says: **"I only complain of my suffering and grief to Allah."**
+
+## Page 246 (12:87–95)
+-  **The Search**: Yaqub tells his sons to go back and "sense out" news of Yusuf and Binyamin—never despairing of Allah's mercy.
+- **The Revelation**: The brothers return to Yusuf in distress. Yusuf asks: "Do you know what you did to Yusuf and his brother when you were ignorant?"
+- **The Recognition**: They realize his identity: "Are you indeed Yusuf?" He confirms, and they admit their sin. Yusuf says: **"No blame will be upon you today. Allah will forgive you."**
+
+## Page 247 (12:96–103)
+-  **The Healing**: Yusuf sends his shirt; when it is cast over Yaqub's face, his sight is restored.
+- **The Reunion**: The whole family travels to Egypt. Yusuf seats his parents on the throne, and they (the parents and 11 brothers) fall in prostration to him.
+- **The Fulfillment**: Yusuf says: "This is the interpretation of my vision of old; my Lord has made it true." He prays to die as a Muslim and join the righteous.
+
+## Page 248 (12:104–111)
+-  **The Message**: Most people will not believe, no matter how much the Prophet desires it.
+- **The Warning**: Many see signs in the heavens and earth but pass by them, turning away.
+- **Conclusion of Surah Yusuf**: The stories of the Prophets are not "fabricated tales" but a confirmation of truth and a lesson for those of understanding.
+
+## Page 249 (13:1–5)
+-  **Start of Surah Ar-Ra’d**: Alif-Lam-Mim-Ra. The truth of the Revelation.
+- **The Creator**: Allah raised the heavens without pillars, subjected the sun and moon, and spread the earth with mountains and rivers.
+- **Pairs**: He made all fruits in pairs and the alternation of night and day.
+- **The Denial**: Despite these signs, the disbelievers ask: "When we are dust, will we really be in a new creation?"
+
+## Page 250 (13:6–13)
+-  **Divine Patience**: Allah is full of forgiveness for people despite their wrongdoing, but He is also severe in punishment.
+- **Knowledge**: Allah knows what every female carries and what the wombs lose or exceed. He knows the hidden and the manifest.
+- **Guardians**: Every person has successive angels protecting them by Allah's command.
+- **Change**: **"Indeed, Allah will not change the condition of a people until they change what is in themselves."**
+
+## Page 251 (13:14–18)
+-  **The True Call**: Supplicating to false gods is like one reaching for water with open palms; it will never reach his mouth.
+- **Prostration**: Everything in the heavens and earth prostrates to Allah, willingly or unwillingly.
+- **Parable of Truth**: Truth and falsehood are like rain: the truth is the water that stays, and falsehood is the foam that vanishes.
+
+## Page 252 (13:19–28)
+-  **The Intelligent (Ulul-Albab)**: Those who fulfill Allah’s covenant, join what He commanded to be joined, and are patient.
+- **The Reward**: For them is the "Ultimate Home"—Gardens of Eden where they will meet their righteous ancestors and families.
+- **Peace**: **"Unquestionably, by the remembrance of Allah do hearts find rest."**
+
+## Page 253 (13:29–34)
+-  **Bliss**: Those who believe and do good have Tuba (bliss) and a beautiful place of return.
+- **The Quran’s Power**: If there were a book that could move mountains or speak to the dead, it would be this Quran.
+- **The Mockers**: Messengers before were mocked; the disbelievers are given respite, but their end is certain.
+
+## Page 254 (13:35–42)
+-  **Paradise**: Described as gardens with flowing rivers and eternal fruit and shade.
+- **Opposition**: The Prophet is told that some to whom the Book was given rejoice in the Quran, while others deny parts of it.
+- **Final Judgment**: Allah wipes out what He wills or confirms; with Him is the "Mother of the Book" (Umm al-Kitab).
+
+## Page 255 (14:1–5)
+-  **Start of Surah Ibrahim**: Alif-Lam-Ra. The purpose of the Book is to bring mankind from darkness into light.
+- **The Language**: Every Messenger was sent in the language of his people to make things clear.
+- **Musa**: Sent to bring his people out of darkness and to remind them of the "Days of Allah."
+
+## Page 256 (14:6–10)
+-  **Musa’s Reminder**: He tells the Israelites to remember Allah's favor in saving them from Pharaoh's torture.
+- **Gratitude**: **"If you are grateful, I will surely increase you \[in favor\]; but if you deny, My punishment is severe."**
+- **Doubt**: Previous nations (Nuh, 'Aad, Thamud) doubted their Messengers despite clear proofs.
+
+## Page 257 (14:11–18)
+-  **Human Messengers**: The Messengers admit they are only humans, but Allah chooses whom He wills. They put their trust only in Allah.
+- **The Threat**: Disbelievers threaten to expel the Messengers. Allah promises to destroy the wrongdoers and settle the believers in the land.
+- **Hell**: The tyrants will drink "festering water" (Sadeed) and will never find relief.
+
+## Page 258 (14:19–24)
+-  **Purpose of Creation**: Allah created the heavens and earth in truth; He could replace humanity with a new creation if He willed.
+- **Satan’s Speech**: On Judgment Day, Satan will say: "Allah promised you the truth... I had no authority over you except that I invited you, and you responded. So do not blame me, but blame yourselves."
+
+## Page 259 (14:25–33)
+-  **The Two Trees**: A "Good Word" (Kalimah Tayyibah) is like a good tree with firm roots and high branches. A "Bad Word" is like an uprooted tree with no stability.
+- **Blessings**: Allah has subjected the sun, moon, night, and day for human benefit.
+- **Ingratitude**: Some people exchange Allah’s favor for disbelief.
+
+## Page 260 (14:34–42)
+-  **Enumeration**: "If you should count the favor of Allah, you could not enumerate them."
+- **Ibrahim’s Prayer**: He asks Allah to make Makkah secure, to keep his children from idols, and mentions settling his family in the "uncultivated valley" near the Kaaba.
+- **Dua**: He prays for himself, his parents, and the believers on the Day of Account.
+
+## Page 261 (14:43–52)
+-  **The End of the Wrongdoers**: Their heads will be upraised, their gaze fixed in horror.
+- **Final Warning**: The Day will come when the earth is replaced by another earth and the heavens likewise.
+- **Conclusion**: This is a notification for mankind so they may be warned and know that He is but **One God**.
+
+* * *
+
+# Juz 14
+
+## Page 262 (15:1–15)
+-  **Start of Surah Al-Hijr**: The disbelievers will eventually wish they had submitted (become Muslims).
+- **The Guardian**: Allah guarantees the protection of the Quran: _"Indeed, it is We who sent down the message and indeed, We will be its guardian."_
+- **The Mockery**: The people of Makkah mock the Prophet as "mad" and demand angels; Allah responds that angels only descend with truth/judgment.
+
+## Page 263 (15:16–31)
+-  **Cosmos**: The creation of constellations and the protection of the heavens from devils.
+- **Provisions**: Allah sends the fertilizing winds and rain; He holds the "storehouses" of all resources.
+- **Creation**: The contrast between the creation of man (from sounding clay) and Jinn (from scorching fire).
+- **The Command**: Allah commands the angels to prostrate to Adam; all obey except **Iblis**.
+
+## Page 264 (15:32–51)
+-  **The Expulsion**: Iblis is cursed until the Day of Recompense. He vows to beautify sin for mankind except for the "sincere servants."
+- **Hell’s Gates**: Seven gates are designated for the followers of Iblis.
+- **Paradise**: The righteous enter in peace, with all resentment removed from their hearts.
+- **Divine Balance**: The Prophet is told to inform the servants of Allah’s immense **mercy** but also His **severe punishment**.
+
+## Page 265 (15:52–70)
+-  **Ibrahim’s Guests**: Ibrahim is given the news of a "learned boy" (Ishaq) despite his old age.
+- **Lut’s People**: The angels reveal they are on their way to destroy the criminals.
+- **The Mob**: When the angels reach Lut, the men of the city rush to the house in lust; Lut pleads for the honor of his guests.
+
+## Page 266 (15:71–90)
+-  **Destruction**: The people of Lut are seized by the "shriek" at sunrise; the city is upended.
+- **Lessons**: Mention of the **People of the Thicket** (Aykah) and the **People of Al-Hijr** (Thamud) who carved mountains but were destroyed.
+- **The Purpose**: The heavens and earth were created in truth; the Hour is surely coming.
+
+## Page 267 (15:91–16:6)
+-  **End of Surah Al-Hijr**: The Prophet is told to proclaim the truth and ignore the mockers. "Worship your Lord until the **Certainty** (death) comes."
+- **Start of Surah An-Nahl**: "The command of Allah is coming, so do not seek to hasten it."
+- **Creation of Man and Cattle**: Man is created from a sperm-drop, yet challenges Allah. Cattle are provided for warmth, food, and beauty.
+
+## Page 268 (16:7–14)
+-  **Transportation**: Horses, mules, and donkeys are provided for riding and adornment.
+- **Agriculture**: Rain provides drink and grows olives, date palms, grapes, and every fruit.
+- **The Sea**: Allah subjected the sea so we may eat fresh meat and extract pearls/ornaments.
+
+## Page 269 (16:15–26)
+-  **Earthly Stability**: Mountains act as stabilizers for the earth.
+- **The Creator**: Contrast between the One who creates and those who cannot create anything.
+- **Arrogance**: The leaders of the disbelievers reject the Message as "legends of the former peoples."
+
+## Page 270 (16:27–34)
+-  **Judgment**: On the Day of Resurrection, the arrogant will be shamed.
+- **The Two Ends**: The wicked are taken by angels while they are wronging themselves; the righteous are taken in a state of purity, greeted with: _"Peace be upon you."_
+
+## Page 271 (16:35–42)
+-  **Fatalism Refuted**: Disbelievers claim they only worship idols because Allah "willed" it. Allah clarifies He sent Messengers to every nation to command the worship of Him alone.
+- **Resurrection**: A binding promise that cannot be denied.
+
+## Page 272 (16:43–54)
+-  **Asking the Learned**: "Ask the people of the message if you do not know."
+- **Prostration of Shadows**: Everything created by Allah bows to Him in humility, even the shadows.
+- **Tawheed**: "Do not take for yourselves two deities. He is only one God."
+
+## Page 273 (16:55–64)
+-  **Ingratitude**: Man calls on Allah during distress but returns to idols once saved.
+- **The "Daughters" Myth**: The polytheists attribute daughters (angels) to Allah, yet they themselves are shamed when a female child is born to them.
+
+## Page 274 (16:65–72)
+-  **The Cow**: A lesson in the production of pure milk.
+- **The Bee**: Allah inspired the bee to build homes and produce honey: **"In it is healing for mankind."**
+- **Life Cycles**: Allah provides for you and determines your lifespan; some reach the age of forgetting.
+
+## Page 275 (16:73–79)
+-  **The Parable of the Two Men**: One is a slave with no power, the other is free with provision. One is a mute/useless man, the other commands justice.
+- **Knowledge**: You were brought from the womb knowing nothing; Allah gave you hearing, sight, and hearts.
+
+## Page 276 (16:80–87)
+-  **The Home**: Houses are places of rest; cattle skins are used for tents.
+- **Witnesses**: On Judgment Day, a witness will be raised from every nation. The disbelievers' false gods will fail them.
+
+## Page 277 (16:88–93)
+-  **The Golden Rule**: **"Indeed, Allah orders justice, good conduct, and giving to relatives..."**
+- **The Comprehensive Verse**: This verse (16:90) is the most inclusive command for ethics in the Quran.
+- **Oaths**: Fulfill your covenants and do not use oaths to deceive.
+
+## Page 278 (16:94–102)
+-  **The Good Life**: _"Whoever does righteousness... while he is a believer—We will surely cause him to live a good life (Hayatun Tayyibah)."_
+- **Recitation**: When reading the Quran, seek refuge in Allah from Satan.
+- **The Holy Spirit**: Jibril brought this revelation to strengthen the believers.
+
+## Page 279 (16:103–110)
+-  **Language**: Refuting the claim that a human taught the Prophet; the Quran is in "clear Arabic."
+- **Forced Disbelief**: Mercy for those forced to utter disbelief under torture while their hearts remain firm in faith.
+
+## Page 280 (16:111–118)
+-  **The Town**: Parable of a secure town that was ungrateful for its provision and was subsequently seized by hunger and fear.
+- **Halal and Haram**: Dietary laws are reiterated (carrion, blood, swine, etc.).
+
+## Page 281 (16:119–128)
+-  **Ibrahim**: He was a "nation" (Ummah) unto himself, obedient and never a polytheist.
+- **Methods of Dawah**: _"Invite to the way of your Lord with **wisdom** and **good instruction**."_
+- **Justice and Patience**: Retaliate only in kind, but patience is far superior for the steadfast.
+
+* * *
+
+# Juz 15
+
+## Page 282 (17:1–7)
+
+- **The Night Journey**: Allah took His servant (Muhammad) from Al-Masjid al-Haram to Al-Masjid al-Aqsa to show him His signs.
+- **Musa**: The Scripture was given to Musa as guidance for the Children of Israel.
+- **The Two Corruptions**: A prophecy that the Israelites would twice cause great corruption on earth and be punished by "servants of great military might."
+
+## Page 283 (17:8–17)
+
+- **Mercy and Warning**: If they return to righteousness, Allah returns to mercy; if they return to sin, punishment follows.
+- **The Record**: Every human’s deeds are "fastened to their neck." On Judgment Day, a book will be presented: _"Read your record."_
+- **Personal Responsibility**: No soul shall bear the burden of another; Allah never punishes a people until a Messenger is sent.
+
+## Page 284 (17:18–27)
+
+- **The Fleeting Life**: Those who desire only this world receive it as Allah wills, but their end is Hell.
+- **The Seekers of the Hereafter**: Those who strive for the next life with faith will have their efforts appreciated.
+- **Parents**: The strict command to worship only Allah and be kind to parents. Do not say even **"Uff"** (a sigh of annoyance) to them.
+
+## Page 285 (17:28–38)
+
+- **Spending**: Give to relatives, the poor, and the traveler, but do not be a spendthrift (tabdheer).
+- **Social Laws**:
+    - Do not kill your children for fear of poverty.
+    - Do not approach adultery (Zina); it is an evil way.
+    - Do not kill the soul which Allah has forbidden.
+    - Fulfill the orphan's property and give full measure in trade.
+
+## Page 286 (17:39–49)
+
+- **Wisdom**: These ethical commands are from the wisdom revealed to the Prophet.
+- **Refutation of Shirk**: Criticizing those who assign "daughters" to Allah.
+- **Universal Praise**: The seven heavens and the earth and all therein glorify Allah, though humans do not perceive their manner of praise.
+
+## Page 287 (17:50–58)
+
+- **Resurrection**: Skeptics ask how dust can be raised; Allah can raise them even if they were stones or iron.
+- **Speech**: Believers are told to speak that which is best, as Satan seeks to incite friction.
+- **The Hour**: The term for the destruction of cities is already written in the Book.
+
+## Page 288 (17:59–66)
+
+- **Withholding Signs**: Allah stopped sending physical miracles (like those of old) because previous nations denied them.
+- **Iblis**: The refusal to prostrate to Adam. Iblis vows to lead the descendants of Adam astray, but Allah clarifies he has no authority over true servants.
+
+## Page 289 (17:67–75)
+
+- **Ungrateful Man**: When in distress at sea, people call Allah alone; once safe on land, they turn back to disbelief.
+- **Human Honor**: **"We have certainly honored the children of Adam"** and preferred them over much of creation.
+- **The Imam**: Every people will be called with their record/leader on Judgment Day.
+
+## Page 290 (17:76–86)
+
+- **Steadfastness**: Allah kept the Prophet firm against the plots of the disbelievers to make him compromise.
+- **The Five Prayers**: Command to establish prayer at the decline of the sun and the Qur'an of dawn (Fajr).
+- **Tahajjud**: The night prayer is an extra merit for the Prophet to reach the "Praised Station" (Maqam al-Mahmud).
+
+## Page 291 (17:87–96)
+
+- **The Quran’s Uniqueness**: No one can produce the like of this Quran, even if mankind and Jinn helped each other.
+- **Makkan Demands**: They ask for rivers, gardens, or a ladder to heaven to believe.
+- **The Prophet’s Answer**: "Am I anything but a human messenger?"
+
+## Page 292 (17:97–104)
+
+- **Spiritual Blindness**: Those blind to the truth here will be raised blind in the Hereafter.
+- **Musa and Pharaoh**: Musa was given nine clear signs; Pharaoh rejected them and was drowned, while the Israelites were settled in the land.
+
+## Page 293 (17:105–18:4)
+
+- **The Truth**: The Quran was sent down with truth, and in truth it has descended; the Prophet is only a giver of glad tidings and a warner.
+- **Prostration**: Those given knowledge before it fall on their faces in humble prostration when the Quran is recited.
+- **Names of Allah**: "Call Him Allah or call Him Ar-Rahman; whichever you call—to Him belong the best names."
+- **Start of Surah Al-Kahf**: Praise be to Allah who sent the Book to His servant and has not made therein any crookedness.
+- **The Warning**: To warn of severe punishment and specifically those who say, "Allah has taken a son."
+
+## Page 294 (18:5–15)
+
+- **Grief**: The Prophet is told not to consume himself with grief over their rejection of the message.
+- **Worldly Adornment**: Everything on earth is a temporary ornament to test who is best in deeds.
+- **The Cave**: The story begins of the youths who fled to a cave to preserve their faith from a pagan king.
+- **Tawheed**: The youths stood up and declared that their Lord is the Lord of the heavens and the earth.
+
+## Page 295 (18:16–20)
+
+- **The Refuge**: The youths withdraw to the cave, praying for Allah’s mercy and "right guidance" in their affair.
+- **The Sleep**: Allah caused them to fall into a deep sleep for many years.
+- **Divine Protection**: The sun is described as veering away from the cave entrance to protect them; they are turned from side to side so their bodies do not decay.
+- **The Dog**: Their dog sits at the entrance with its paws stretched out.
+
+## Page 296 (18:21–27)
+
+- **The Discovery**: The people of the city eventually find them. Arguments arise over building a structure over the cave.
+- **The Number**: People dispute whether they were three, five, or seven. Allah says only a few know the true number; do not argue about it.
+- **The Command**: Never say "I will do this tomorrow" without adding **"Insha'Allah"** (If Allah wills).
+
+## Page 297 (18:28–34)
+
+- **Patience with Believers**: The Prophet is told to be patient with those who call upon their Lord morning and evening, seeking His countenance.
+- **Truth from the Lord**: Whoever wills, let him believe; whoever wills, let him disbelieve. The Fire is prepared for the wrongdoers.
+- **The Two Men**: The parable begins of a wealthy man with two lush gardens of grapes and dates and a poor man.
+
+## Page 298 (18:35–45)
+
+- **Arrogance**: The wealthy man enters his garden, boasting that it will never perish and doubting the Day of Judgment.
+- **The Debate**: His poor companion reminds him of his humble origins from dust and warns him against Shirk.
+- **The Ruin**: A storm from heaven destroys the garden. The man is left wringing his hands in regret for his pride.
+- **Life's Parable**: Worldly life is like rain that grows plants, which then turn into dry stubble scattered by the wind.
+
+## Page 299 (18:46–53)
+
+- **True Value**: Wealth and children are the "adornment" of this life, but "the enduring good deeds" are better in the sight of Allah.
+- **Judgment Day**: The mountains are moved, and humanity is gathered. No one is left behind.
+- **The Record**: Criminals are terrified of the "Book of Deeds" which misses nothing, small or large.
+- **Iblis**: A reminder of Iblis's refusal to prostrate to Adam because he was of the Jinn.
+
+## Page 300 (18:54–61)
+
+- **Human Nature**: Man is the most argumentative of all creatures.
+- **The Messengers**: They are sent only as bringers of good news and warners, yet the disbelievers mock the signs.
+- **The Journey of Musa**: Musa vows to travel until he reaches the "junction of the two seas."
+- **The Fish**: Musa and his servant boy forget their fish, which takes its way into the sea in a miraculous tunnel.
+
+## Page 301 (18:62–74)
+
+- **Meeting Al-Khidr**: Musa meets a servant of Allah (Al-Khidr) who has been given special "Knowledge from Our Presence."
+- **The Condition**: Khidr warns Musa that he will not be able to have patience, but agrees to let him follow if he asks no questions until Khidr speaks of it.
+- **The Boat**: Khidr scuttles (damages) a boat they were traveling in; Musa objects, breaking the condition.
+- **The Boy**: Khidr kills a young boy; Musa objects again, even more strongly.
+
+* * *
