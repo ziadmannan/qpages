@@ -2983,3 +2983,114 @@
 - **Mortality**: "Indeed, you are to die, and indeed, they are to die."
 
 * * *
+
+# Juz 24
+
+## Page 462 (39:32–40)
+- **The Truthful**: Those who bring the truth and believe in it are the righteous.
+- **Divine Sufficiency**: A powerful question for every believer: **"Is not Allah sufficient for His servant?"**
+- **Helplessness of Idols**: If Allah wills harm or mercy, false deities can neither remove the harm nor withhold the mercy.
+
+## Page 463 (39:41–47)
+- **The Book**: Revealed with truth; the Prophet is not a manager over people's choices.
+- **Sleep and Death**: Allah takes the souls at death and during sleep. He keeps those for whom death is decreed and returns the others for a term.
+- **Aversion**: The hearts of disbelievers shrink when Allah is mentioned alone, but they rejoice when idols are mentioned.
+
+## Page 464 (39:48–56)
+- **The Trial**: When favor is shown to man, he claims it's because of his own knowledge, but it is a test.
+- **The Ultimate Hope**: **"Say, 'O My servants who have transgressed against themselves \[by sinning\], do not despair of the mercy of Allah. Indeed, Allah forgives all sins.'"**
+- **Repentance**: Turn to Allah before the punishment comes suddenly and you are left with regret.
+
+## Page 465 (39:57–67)
+- **Regret**: On that Day, the soul will wish it had been among the righteous.
+- **The Scene**: On the Day of Resurrection, the faces of those who lied about Allah will be blackened.
+- **Sovereignty**: The keys of the heavens and earth belong to Allah. The whole earth will be within His grip, and the heavens folded in His right hand.
+
+## Page 466 (39:68–74)
+- **The Trumpet**: Two blasts—the first causes all to fall dead, the second causes all to stand and look.
+- **Justice**: The earth will shine with the light of its Lord, the Record will be placed, and Prophets and witnesses will be brought.
+- **The Groups (Zumar)**: Those who disbelieved are driven to Hell in groups. Those who feared their Lord are led to Paradise in groups, greeted by angels saying: _"Salamun 'Alaikum (Peace be upon you); you have become pure; so enter it to abide eternally."_
+
+## Page 467 (39:75–40:7)
+- **End of Surah Az-Zumar**: The angels surround the Throne, glorifying Allah, and it is judged between all with truth.
+- **Start of Surah Ghafir (The Forgiver)**: Ha-Mim.
+- **The Attributes**: Allah is the Forgiver of sin, Accepter of repentance, Severe in punishment, and Owner of abundance.
+- **The Throne-Bearers**: The angels who carry the Throne pray for the forgiveness of those who have repented and followed Allah’s way.
+
+## Page 468 (40:8–16)
+- **The Prayer of Angels**: They ask Allah to admit the believers and their righteous families into the Gardens of Eternity.
+- **Self-Loathing**: The disbelievers in Hell will hate themselves, but Allah's hatred for their disbelief on earth was even greater.
+- **The King**: On that Day, the call will go out: _"To whom belongs sovereignty this Day?"_ The answer: _"To Allah, the One, the Prevailing."_
+
+## Page 469 (40:17–25)
+- **The Approaching Day**: The hearts will be at the throats, choked with grief.
+- **Divine Knowledge**: **"He knows that which deceives the eyes and what the breasts conceal."**
+- **Musa**: Sent with clear authority to Pharaoh, Haman, and Qarun. They called him a "lying magician" and ordered the killing of the sons of those who believed with him.
+
+## Page 470 (40:26–33)
+- **Pharaoh’s Plot**: Pharaoh wants to kill Musa, fearing he will change the people's religion.
+- **The Secret Believer**: A man from Pharaoh's own family, who kept his faith secret, speaks up: _"Would you kill a man \[merely\] because he says, 'My Lord is Allah'?"_
+- **The Warning**: He reminds them of the fate of the people of Nuh, 'Aad, and Thamud.
+
+## Page 471 (40:34–40)
+- **Yusuf**: The believer reminds them that Yusuf came with clear signs before, but they remained in doubt.
+- **Arrogance**: Pharaoh asks Haman to build a tower to see the God of Musa.
+- **The Reality**: The believer warns that the life of this world is but a passing enjoyment, while the Hereafter is the home of settlement.
+
+## Page 472 (40:41–49)
+- **The Call**: The believer exclaims, _"O my people, how is it that I invite you to salvation while you invite me to the Fire?"_
+- **The Protection**: Allah saves the believer from their evil plots, while Pharaoh’s people are enveloped by the punishment.
+- **The Fire**: They are exposed to the Fire morning and evening (in the Barzakh), and on the Last Day, they enter the severest punishment.
+
+## Page 473 (40:50–58)
+- **Victory**: Allah will surely support His Messengers and those who believe in the life of this world and on the Day the witnesses stand.
+- **Creation**: The creation of the heavens and earth is greater than the creation of mankind, but most people do not know.
+- **Equality**: The blind and the seeing are not equal, nor are the believers and the evildoers.
+
+## Page 474 (40:59–66)
+- **Supplication**: **"Call upon Me; I will respond to you."**
+- **The Night and Day**: Created for rest and vision.
+- **Signs**: Mention of the earth as a stable dwelling and the sky as a ceiling. He formed you and perfected your forms.
+
+## Page 475 (40:67–77)
+- **Life Stages**: Created from dust, then a sperm-drop, then a clot, then brought out as a child, then reaching maturity, then becoming old.
+- **The Chains**: Those who deny the Book will soon know, when shackles and chains are around their necks.
+- **Patience**: The Prophet is told to be patient; the promise of Allah is true.
+
+## Page 476 (40:78–85)
+- **Messengers**: Allah tells the Prophet that He sent many Messengers before; some are mentioned in the Quran, and some are not. No Messenger could bring a miracle except by Allah's permission.
+- **Cattle**: Mention of livestock created for riding and eating as signs of Allah’s favor.
+- **Futility of Late Faith**: When the previous nations saw the actual punishment (the thunderbolt or flood), they finally said, "We believe in Allah alone."
+- **The Rule**: **Surah Ghafir ends** by stating that faith after the punishment arrives has never benefited any people; this is the established way (_Sunnah_) of Allah.
+
+## Page 477 (41:1–11)
+- **Start of Surah Fussilat**: Ha-Mim. A revelation from the Entirely Merciful, the Especially Merciful.
+- **The Arabic Quran**: A Book whose verses are explained in detail, in Arabic, for people who have knowledge.
+- **The Rejection**: The disbelievers say their hearts are in "veils" and there is a "barrier" between them and the Prophet.
+- **Creation**: Allah created the earth in two days and placed firm mountains. He determined its sustenance in four days.
+- **The Smoke**: He directed Himself to the heaven while it was **smoke** and told the heaven and earth to "come willingly or by compulsion." They replied, "We come willingly."
+
+## Page 478 (41:12–20)
+- **Seven Heavens**: He completed the seven heavens in two days and adorned the lowest heaven with lamps (stars).
+- **Warning**: If they turn away, warn them of a thunderbolt like that which struck **'Aad and Thamud**.
+- **'Aad's Arrogance**: They were proud of their power and asked, "Who is greater than us in strength?" Allah sent a screaming wind upon them in "days of misfortune."
+- **Judgment Day**: The enemies of Allah will be gathered toward the Fire, and their own hearing, eyes, and skins will testify against them regarding what they used to do.
+
+## Page 479 (41:21–29)
+- **The Skin Speaks**: The sinners will ask their skins, "Why have you testified against us?" The skins will answer: **"Allah made us speak—He who makes all things speak."**
+- **Self-Deception**: They thought Allah did not know much of what they were doing, and this thought led to their destruction.
+- **Noisy Distraction**: The disbelievers say, "Do not listen to this Quran and make noise during its recital so that you may overcome."
+- **The Lowest**: The disbelievers will beg to see the ones among Jinn and men who misled them so they can crush them under their feet.
+
+## Page 480 (41:30–38)
+- **Steadfastness**: For those who say, "Our Lord is Allah," and stay firm, angels descend at the time of death saying: **"Do not fear and do not grieve; but receive the glad tidings of Paradise."**
+- **The Best Speech**: Who is better in speech than one who invites to Allah, does righteousness, and says, "Indeed, I am of the Muslims"?
+- **Repelling Evil**: Repel evil with that which is better (_Ahsan_). This turns an enemy into a "devoted friend."
+- **Prostration**: Do not prostrate to the sun or moon, but to Allah who created them.
+
+## Page 481 (41:39–46)
+- **Sign of Life**: You see the earth barren, but when Allah sends rain, it stirs and grows. The One who gives it life will surely give life to the dead.
+- **Distortion**: Those who deviate regarding Allah's verses are not hidden from Him.
+- **The Quran's Nature**: It is a Book of might. Falsehood cannot approach it from before it or from behind it.
+- **Healing**: For the believers, the Quran is **"Guidance and Healing"** (_Hudan wa Shifa_).
+- **Justice**: Whoever does righteousness, it is for his own soul; and whoever does evil, it is against it. Your Lord is never unjust to His servants.
