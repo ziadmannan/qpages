@@ -3094,3 +3094,274 @@
 - **The Quran's Nature**: It is a Book of might. Falsehood cannot approach it from before it or from behind it.
 - **Healing**: For the believers, the Quran is **"Guidance and Healing"** (_Hudan wa Shifa_).
 - **Justice**: Whoever does righteousness, it is for his own soul; and whoever does evil, it is against it. Your Lord is never unjust to His servants.
+
+* * *
+
+# Juz 25
+
+## Page 482 (41:47–54)
+
+- **Knowledge of the Hour**: Attribution of the timing of the Last Hour, the ripening of fruit, and the conception/delivery of every female is to Allah alone.
+- **The Witness**: On the Day of Judgment, Allah will ask the polytheists where their "partners" are; they will admit they have no witness for them.
+- **Man's Nature**: When man is blessed, he turns away; when touched by evil, he makes lengthy supplications.
+- **The Horizons**: "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth."
+
+## Page 483 (42:1–10)
+
+- **Start of Surah Ash-Shura**: Ha-Mim-’Ain-Seen-Qaf.
+- **Divine Might**: Allah is the Exalted, the Great. The heavens almost break apart from above out of awe while angels seek forgiveness for those on earth.
+- **The Warning**: The Quran is revealed in Arabic to warn the "Mother of Cities" (Makkah) of the Day of Gathering, about which there is no doubt.
+- **The Protector**: There is no protector or helper for the wrongdoers. Only Allah is the true Protector who gives life to the dead.
+
+## Page 484 (42:11–15)
+
+- **Creator of Pairs**: Allah made for you mates from yourselves and cattle in pairs. **"There is nothing like unto Him"** (*Lay-sa ka-mith-li-hi shay*).
+- **Ordained Religion**: Allah has legislated for you the same religion (Islam/Tawheed) He enjoined upon Nuh, Ibrahim, Musa, and Isa.
+- **Command to the Prophet**: Stand firm as commanded, do not follow their desires, and say: "I believe in whatever Book Allah has sent down."
+
+## Page 485 (42:16–22)
+
+- **The Truth and the Balance**: Allah sent the Book in truth and the Scale (of justice).
+- **Skeptics**: Those who do not believe in the Hour challenge its arrival, while the believers are in awe of it.
+- **The Harvest**: Whoever desires the "harvest" of the Hereafter, Allah increases it; whoever desires only this world has no share in the next.
+- **Oppression**: You will see the wrongdoers fearful of what they earned when it finally falls upon them.
+
+## Page 486 (42:23–31)
+
+- **Glad Tidings**: This is what Allah promises His servants who believe and do good.
+- **Kindred**: The Prophet is told to ask for no reward except affection toward his kindred.
+- **Provision**: If Allah had given vast wealth to all, people would have rebelled; instead, He sends it down in precise measure.
+- **The Rain**: He is the One who sends down rain after people have despaired, spreading His mercy.
+
+## Page 487 (42:32–44)
+
+- **Signs at Sea**: Ships like mountains on the ocean. If Allah willed, He could still the wind and leave them motionless.
+- **Qualities of Believers**: They avoid major sins, they forgive when angry, they establish prayer, and **"their affair is [conducted by] consultation (Shura) among themselves."**
+- **Self-Defense**: Those who defend themselves when oppressed are not to be blamed.
+
+## Page 488 (42:45–51)
+
+- **The Day of Loss**: The wrongdoers will be exposed to the Fire, looking with a "stealthy glance."
+- **Sovereignty over Life**: To Allah belongs the kingdom of the heavens and earth. He grants females to whom He wills, males to whom He wills, or both, or makes whom He wills barren.
+- **Modes of Revelation**: Allah speaks to man only via inspiration, from behind a veil, or by sending a messenger (angel).
+
+## Page 489 (42:52–43:10)
+
+- **The Spirit**: The Quran is a "Spirit" and a "Light" from Allah’s command.
+- **Start of Surah Az-Zukhruf**: Ha-Mim.
+- **The Arabic Quran**: Revealed in Arabic so that you may understand. It is preserved in the "Mother of the Book" (*Umm al-Kitab*) with Allah.
+- **Creation**: If you ask the disbelievers who created the heavens and earth, they admit it was the "Exalted in Might, the Knowing."
+
+## Page 490 (43:11–22)
+
+- **The Sustainer**: He sends rain to revive dead land and created all pairs (species).
+- **Travel Etiquette**: When riding a mount or ship, the believer should remember the favor of Allah and say: *"Glory to Him who has subjected this to us."*
+- **Mockery of Angels**: Rebuking those who claim the angels are female and then dislike having daughters themselves.
+
+## Page 491 (43:23–33)
+
+- **Ancestral Blindness**: The disbelievers claim they are just following the path of their fathers.
+- **Ibrahim**: He declared to his father and people that he is free from what they worship, except for the One who created him.
+- **Worldly Rank**: They ask why the Quran wasn't revealed to a wealthy man of "the two cities." Allah reminds them that He is the one who distributes rank and mercy.
+
+## Page 492 (43:34–47)
+
+- **Worldly Ornaments (Zukhruf)**: Gold and silver are so insignificant to Allah that if it weren't for the trial of disbelief, He would have given everyone houses of silver.
+- **The Devil’s Companion**: Whoever ignores the remembrance of the Most Merciful (*Ar-Rahman*), a devil is assigned to them as a constant companion.
+- **Musa**: Sent to Pharaoh, who mocked Musa’s poverty and his lack of golden bracelets.
+
+## Page 493 (43:48–60)
+
+- **Pharaoh’s End**: Pharaoh boasted of his rivers and kingdom, yet he and his people were drowned as a "precedent" for others.
+- **Isa (Jesus)**: He was but a servant favored with Prophethood. He is a sign for the Hour.
+- **Tawheed**: Isa told his people: "Fear Allah and obey me. Indeed, Allah is my Lord and your Lord, so worship Him."
+
+## Page 494 (43:61–73)
+
+- **Enemies into Friends**: On the Day of Judgment, close friends will become enemies, except for the righteous (*Al-Muttaqin*).
+- **Paradise**: The believers will enter the Garden with their spouses, served with golden trays and cups containing whatever the soul desires.
+
+## Page 495 (43:74–89)
+
+- **The Eternal Punishment**: The criminals will remain in the torment of Hell; it will not be lightened for them, and they will be in despair.
+- **Malik**: They will cry out to the gatekeeper of Hell, "O Malik, let your Lord put an end to us!" He will reply, "Indeed, you are to remain."
+- **The Truth**: Allah reminds them that He brought them the Truth, but most of them were averse to it.
+- **The Prophet's Plea**: The Prophet cries out to his Lord that these are a people who do not believe. Allah tells him to "Turn away from them and say, 'Peace.' For they are going to know." (**Surah Az-Zukhruf ends**).
+
+## Page 496 (44:1–18)
+
+- **Start of Surah Ad-Dukhan**: Ha-Mim.
+- **The Blessed Night**: The Quran was sent down on a **Blessed Night** (*Laylat al-Qadr*) to warn mankind. In it, every matter of wisdom is made distinct.
+- **The Smoke**: A warning of a day when the sky will bring a visible smoke (*Dukhan*) that will envelop the people as a painful torment.
+- **Musa**: The story of Musa’s call to Pharaoh's people, whom Allah tested before them. Musa tells them, "Deliver to me the servants of Allah (the Israelites)."
+
+## Page 497 (44:19–39)
+
+- **Pharaoh’s End**: Pharaoh’s people rejected the signs and were drowned. They left behind gardens, springs, crops, and noble sites.
+- **No Tears**: **"And the heaven and earth wept not for them, nor were they reprieved."**
+- **The Test of Israel**: Allah chose the Children of Israel over the nations of that time, despite knowing their faults, and gave them signs containing a clear trial.
+- **The Final End**: The disbelievers of Makkah claim there is only the first death and no resurrection. Allah reminds them of the destruction of the people of **Tubba’** and those before them.
+
+## Page 498 (44:40–59)
+
+- **The Day of Sorting**: The Day of Judgment is the appointed time for all of humanity. On that day, no friend can help another, except those whom Allah shows mercy.
+- **The Tree of Zaqqum**: The food of the sinful, described as being like murky oil or molten metal boiling in the bellies of the dwellers of Hell.
+- **The Punishment**: The command is given to seize the sinner and drag him into the midst of the Hellfire, pouring scalding water over his head.
+- **The Reward of the Righteous**: In stark contrast, those who feared Allah will be in a secure place among gardens and springs, wearing fine silk and brocade, married to fair companions.
+- **Conclusion**: They will not taste death therein after the first death. This is the "Great Success." (**Surah Ad-Dukhan ends**).
+
+## Page 499 (45:1–13)
+
+- **Start of Surah Al-Jathiyah**: Ha-Mim. The revelation of the Book is from Allah, the Exalted in Might, the Wise.
+- **Signs for Believers**: The page highlights the signs of Allah’s existence and power:
+  - In the creation of the heavens and the earth.
+  - In your own creation and the creatures He scattered.
+  - In the alternation of night and day.
+  - In the rain that revives the dead earth.
+  - In the shifting of the winds.
+- **The Arrogant Skeptic**: A warning to the "sinful liar" who hears the verses of Allah but persists in pride as if he hadn't heard them.
+- **Divine Subjection**: Allah has subjected the sea for ships to sail and has subjected everything in the heavens and the earth for the benefit of mankind.
+
+## Page 500 (45:14–22)
+
+- **Forgiveness**: Believers are instructed to forgive those who do not believe in the "Days of Allah," leaving their judgment to Him.
+- **The Children of Israel**: They were given the Scripture, wisdom, and Prophethood. However, they fell into divisions only after knowledge came to them, driven by mutual jealousy and rivalry.
+- **The Sharia**: The Prophet is told he has been placed on a clear "ordained way" (*Sharia*) and must follow it, ignoring the whims of those who lack knowledge.
+- **The Scale of Justice**: Allah declares that He will not treat those who commit evil the same as those who believe and do righteous deeds. Their life and death are not equal.
+
+## Page 501 (45:23–32)
+
+- **Taking Desire as a God**: "Have you seen him who has taken as his god his [own] desire?" Allah has set a seal upon such a person's hearing and heart, leaving them in darkness.
+- **The Materialist View**: The disbelievers argue that there is only this worldly life and that "nothing destroys us except time (*Ad-Dahr*)." Allah clarifies they have no real knowledge of this; they are only following conjecture.
+- **The Resurrection**: When told of the Resurrection, their only response is to ask the Prophet to bring back their dead ancestors as proof.
+- **Sovereignty**: To Allah belongs the dominion of the heavens and the earth. On the Day the Hour is established, those who followed falsehood will be the ultimate losers.
+
+* * *
+
+# Juz 26
+
+## Page 502 (45:33–46:5)
+
+- **The Regret**: The evil of the disbelievers' deeds will become apparent to them. They will be told: "Today We forget you as you forgot the meeting of this Day."
+- **End of Surah Al-Jathiyah**: Praise belongs to Allah, Lord of the heavens and earth. To Him belongs all grandeur.
+- **Start of Surah Al-Ahqaf**: Ha-Mim.
+- **Specified Term**: The heavens and earth were created for a fixed duration.
+- **The Lost**: Who is more astray than one who calls upon idols that will never respond, even if they waited until the Day of Resurrection?
+
+## Page 503 (46:6–14)
+
+- **Gathering**: On Judgment Day, these idols will become enemies to their worshippers.
+- **Accusations**: When the Prophet recites the Quran, they call it "clear magic" or claim he fabricated it.
+- **Musa**: The Quran is a confirming Book in Arabic, similar to the Book of Musa before it.
+- **Steadfastness**: For those who say, "Our Lord is Allah," and remain firm, there is no fear or grief; they are the companions of Paradise.
+
+## Page 504 (46:15–20)
+
+- **Parents**: A beautiful command to be kind to parents. A mother carries her child with hardship and gives birth with hardship (**30 months** for pregnancy and weaning).
+- **The Prayer of Maturity**: At age 40, the believer prays for gratitude and for righteous offspring.
+- **The Contrast**: Mention of the rebellious child who mocks his parents' faith, compared to the righteous whose best deeds are accepted.
+
+## Page 505 (46:21–28)
+
+- **Hud and 'Aad**: The story of the "People of the Sand Dunes" (*Al-Ahqaf*). Hud warns them, but they see a cloud and think it is rain.
+- **The Wind**: It was not rain, but a "destructive wind" that destroyed everything except their dwellings.
+- **Powerless Idols**: Their false gods did nothing to save them when Allah’s command arrived.
+
+## Page 506 (46:29–35)
+
+- **The Jinn**: A group of Jinn listen to the Prophet reciting the Quran. They return to their people as warners, calling the Quran a "Book revealed after Musa."
+- **Patience**: The Prophet is told to be patient like the "Messengers of Firm Resolve" (*Ulul-'Azm*) and not to be in a hurry for the disbelievers' punishment.
+
+## Page 507 (47:1–11)
+
+- **Start of Surah Muhammad**: "Those who disbelieve... He has rendered their deeds astray."
+- **The Believers**: For those who believe and follow the truth from their Lord, Allah removes their misdeeds and improves their condition.
+- **Battle**: Rulings on warfare—when you meet the disbelievers in battle, be firm.
+- **Support**: **"If you support Allah, He will support you and plant your feet firmly."**
+
+## Page 508 (47:12–19)
+
+- **Paradise vs. Hell**: A description of the rivers in Paradise: water that never goes stale, milk that never changes taste, wine delicious to drinkers, and purified honey.
+- **The Hypocrites**: They listen to the Prophet but ask mockingly, "What did he just say?"
+- **The Key Verse**: **"So know that there is no deity except Allah and ask forgiveness for your sin."**
+
+## Page 509 (47:20–29)
+
+- **Reluctance**: When a Surah regarding fighting is revealed, the hypocrites look at the Prophet with the look of one fainting at death.
+- **Corruption**: A warning against turning away and causing corruption on earth or severing ties of kinship.
+- **The Hearts**: **"Do they not reflect upon the Quran, or are there locks upon [their] hearts?"**
+
+## Page 510 (47:30–38)
+
+- **Recognition**: Allah could show the Prophet exactly who the hypocrites are by their marks, but he will know them by the "tone of their speech."
+- **Trial**: Life is but amusement and play. If you believe and fear Allah, He will give you your rewards.
+- **Stinginess**: A warning against being stingy with one's wealth. If you turn away, Allah will replace you with another people who will not be like you.
+
+## Page 511 (48:1–9)
+
+- **Start of Surah Al-Fath (The Victory)**: "Indeed, We have granted you a clear victory."
+- **Forgiveness**: This victory (Treaty of Hudaybiyyah) leads to the forgiveness of the Prophet's past and future sins.
+- **Tranquility**: Allah sends down **Sakinah** (tranquility) into the hearts of the believers.
+- **The Purpose**: To believe in Allah and His Messenger and to support and honor him.
+
+## Page 512 (48:10–15)
+
+- **The Pledge**: Those who give their pledge to the Prophet are giving a pledge to Allah. "The Hand of Allah is over their hands."
+- **The Bedouins**: Those who stayed behind from the journey make excuses about their "wealth and families." Allah knows they thought the Prophet would never return.
+
+## Page 513 (48:16–23)
+
+- **Future Battles**: The Bedouins will be called to fight a "people of great military might."
+- **Pleasure of Allah**: **"Allah was certainly pleased with the believers when they pledged allegiance to you under the tree."**
+- **Gifts**: Allah promised much war booty that the believers would take.
+
+## Page 414 (48:24–28)
+
+- **Restraint**: Allah withheld the hands of the Makkans from the believers in the valley of Makkah.
+- **The Vision**: Allah will fulfill the Prophet’s vision of entering the Sacred Mosque (Masjid al-Haram) in safety, with heads shaved or hair cut short.
+- **Superiority**: He sent His Messenger with guidance to make it superior over all religions.
+
+## Page 515 (48:29–49:4)
+
+- **End of Surah Al-Fath**: Muhammad is the Messenger of Allah. Those with him are forceful against the disbelievers and merciful among themselves. Their mark is on their faces from the trace of prostration.
+- **Start of Surah Al-Hujurat (The Chambers)**: Do not put yourselves forward before Allah and His Messenger.
+- **The Voice**: Do not raise your voices above the voice of the Prophet.
+
+## Page 516 (49:5–11)
+
+- **Verification**: If a wicked person brings you news, verify it, lest you harm people in ignorance.
+- **Brotherhood**: The believers are but brothers, so make settlement between your brothers.
+- **Social Ethics**: Do not mock one another, do not insult each other with nicknames, and do not let one group of women mock another.
+
+## Page 517 (49:12–18)
+
+- **Prohibited Acts**: Avoid much suspicion, do not spy, and **do not backbite**. Backbiting is compared to eating the flesh of one's dead brother.
+- **Humanity**: All humans were created from a male and female and made into nations and tribes to **know one another**. The most noble is the most righteous.
+- **True Faith**: The Bedouins say "We believe," but Allah says to tell them, "You have only [as yet] submitted (accepted Islam)."
+
+## Page 518 (50:1–15)
+
+- **Start of Surah Qaf**: Qaf. By the honored Quran.
+- **Resurrection**: The disbelievers are amazed at the idea of returning to life after becoming dust.
+- **Nature's Proof**: Look at the sky, how it is built without rifts, and the earth with its mountains and rain that brings life to dead land.
+- **The First Creation**: Allah was not tired by the first creation, so why doubt the second?
+
+## Page 519 (50:16–35)
+
+- **Closeness**: **"We are closer to him than his jugular vein."**
+- **The Angels**: Two recording angels sit on the right and left. **"Man does not utter any word except that with him is an observer prepared [to record]."**
+- **Death**: The stupor of death brings the truth that man tried to avoid.
+- **Paradise**: It is brought near to the righteous—those who feared the Most Merciful in the unseen and came with a "sound heart."
+
+## Page 520 (50:36–51:6)
+
+- **End of Surah Qaf**: Remind with the Quran those who fear the threat.
+- **Start of Surah Adh-Dhariyat (The Winnowing Winds)**: By the winds scattering dust.
+- **The Promise**: Indeed, what you are promised is true, and the Recompense is sure to occur.
+
+## Page 521 (51:7–30)
+
+- **The Path**: By the heaven full of pathways.
+- **The Righteous**: They used to sleep little at night and ask for forgiveness before dawn (*Sehar*).
+- **The Soul**: **"And within yourselves [are signs]. Do you not see?"**
+- **Ibrahim**: The story of the honored guests (angels) who visited Ibrahim and gave him the glad tidings of a son (Ishaq) despite his wife's old age.
