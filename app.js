@@ -13,8 +13,17 @@ renderer.heading = ({ text, depth }) => {
         const match = text.match(/Page\s+(\d+)\s*(.*)/i);
         if (match) {
             const pageNum = match[1];
-            const ayahInfo = match[2].trim();
+            let ayahInfo = match[2].trim();
             const currentSubPage = pageInJuzCounter++;
+
+            // Check if there's a prostration mark (۩) in the ayah info
+            const hasProstration = ayahInfo.includes('۩');
+            if (hasProstration) {
+                // Remove the ۩ character from ayahInfo but keep it in the display
+                ayahInfo = ayahInfo.replace('۩', '');
+                // Add the prostration mark to the page header
+                ayahInfo = `۩ ${ayahInfo}`;
+            }
 
             return `
                 <div class="page-header sticky-header" data-page="${pageNum}">
