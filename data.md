@@ -3392,10 +3392,9 @@
 ## Page 525 (52:32–49)
 
 - **End of Surah At-Tur**: Allah poses a series of rhetorical challenges to the skeptics:
-
-- Were they created by nothing, or are they the creators?
-- Do they possess the treasures of your Lord?
-- Do they have a ladder to the heavens to overhear the Unseen?
+  - Were they created by nothing, or are they the creators?
+  - Do they possess the treasures of your Lord?
+  - Do they have a ladder to the heavens to overhear the Unseen?
 - **Patience**: The Prophet is told to be patient and to glorify Allah "when you arise," "at night," and "after the setting of the stars."
 
 ## Page 526 (53:1–26)
@@ -3455,7 +3454,7 @@
 
 ## Page 533 (55:41–67)
 
-# - **Criminals**: They will be known by their marks and seized by the forelocks and feet.
+- **Criminals**: They will be known by their marks and seized by the forelocks and feet.
 - **Two Gardens**: For the one who fears the standing before his Lord are two gardens with lush branches, flowing springs, and pairs of every fruit.
 
 ## Page 534 (55:68–56:16)
@@ -3473,13 +3472,13 @@
 
 ## Page 536 (56:51–76)
 
-# - **The Punishment**: The deniers will eat from the tree of Zaqqum and drink scalding water like thirsty camels.
+- **The Punishment**: The deniers will eat from the tree of Zaqqum and drink scalding water like thirsty camels.
 - **The Argument for Creation**: Allah asks: "Have you seen the seed you sow? The water you drink? The fire you kindle?"—Did you produce them, or did Allah?
 - **The Oath**: **"Then I swear by the setting of the stars—and indeed, it is a great oath, if you only knew."**
 
 ## Page 537 (56:77–57:3)
 
-# - **The Protected Book**: It is a noble Quran in a protected Register; none touch it except the purified.
+- **The Protected Book**: It is a noble Quran in a protected Register; none touch it except the purified.
 - **Conclusion of Al-Waqi'ah**: Descriptions of the soul reaching the throat at death.
 - **Start of Surah Al-Hadid**: Everything in the heavens and earth glorifies Allah.
 - **The Four Attributes**: **"He is the First and the Last, the Manifest and the Hidden."**
