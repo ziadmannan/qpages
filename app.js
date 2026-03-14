@@ -9,20 +9,20 @@ const renderer = new marked.Renderer();
 
 renderer.heading = ({ text, depth }) => {
     if (depth === 2) {
-        // Regex to capture "Page X" and the "(Ayah range)"
+        // Regex to capture "Page X" and the "(Ayah range)" with optional sajdah mark at the end
         const match = text.match(/Page\s+(\d+)\s*(.*)/i);
         if (match) {
             const pageNum = match[1];
             let ayahInfo = match[2].trim();
             const currentSubPage = pageInJuzCounter++;
 
-            // Check if there's a prostration mark (۩) in the ayah info
-            const hasProstration = ayahInfo.includes('۩');
+            // Check if there's a prostration mark (۩) at the end of the ayah info
+            const hasProstration = ayahInfo.endsWith('۩');
             if (hasProstration) {
-                // Remove the ۩ character from ayahInfo but keep it in the display
-                ayahInfo = ayahInfo.replace('۩', '');
-                // Add the prostration mark to the page header
-                ayahInfo = `۩ ${ayahInfo}`;
+                // Remove the ۩ character from the end
+                ayahInfo = ayahInfo.slice(0, -1).trim();
+                // Add the prostration mark to the end with larger size
+                ayahInfo = `${ayahInfo} <span class="sajdah-mark">۩</span>`;
             }
 
             return `

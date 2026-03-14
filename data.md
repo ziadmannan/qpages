@@ -1331,7 +1331,7 @@
 - They ask about the **Hour**; say: "Knowledge of it is with my Lord alone."
 
 
-## Page 176 ۩ (7:188–195)
+## Page 176 (7:188–195) ۩
 - The Prophet does not possess power to benefit or harm himself, nor does he know the Unseen.
 - Allah created you from a single soul and made its mate so he might dwell in tranquility.
 - When a child is born, some associate partners with Allah; He is exalted above what they associate.
@@ -1821,7 +1821,7 @@
 - **Guardians**: Every person has successive angels protecting them by Allah's command.
 - **Change**: **"Indeed, Allah will not change the condition of a people until they change what is in themselves."**
 
-## Page 251 ۩ (13:14–18)
+## Page 251 (13:14–18) ۩
 -  **The True Call**: Supplicating to false gods is like one reaching for water with open palms; it will never reach his mouth.
 - **Prostration**: Everything in the heavens and earth prostrates to Allah, willingly or unwillingly.
 - **Parable of Truth**: Truth and falsehood are like rain: the truth is the water that stays, and falsehood is the foam that vanishes.
@@ -1929,7 +1929,7 @@
 -  **Fatalism Refuted**: Disbelievers claim they only worship idols because Allah "willed" it. Allah clarifies He sent Messengers to every nation to command the worship of Him alone.
 - **Resurrection**: A binding promise that cannot be denied.
 
-## Page 272 ۩ (16:43–54)
+## Page 272 (16:43–54) ۩
 -  **Asking the Learned**: "Ask the people of the message if you do not know."
 - **Prostration of Shadows**: Everything created by Allah bows to Him in humility, even the shadows.
 - **Tawheed**: "Do not take for yourselves two deities. He is only one God."
@@ -2045,7 +2045,7 @@
 - **Spiritual Blindness**: Those blind to the truth here will be raised blind in the Hereafter.
 - **Musa and Pharaoh**: Musa was given nine clear signs; Pharaoh rejected them and was drowned, while the Israelites were settled in the land.
 
-## Page 293 ۩ (17:105–18:4)
+## Page 293 (17:105–18:4) ۩
 
 - **The Truth**: The Quran was sent down with truth, and in truth it has descended; the Prophet is only a giver of glad tidings and a warner.
 - **Prostration**: Those given knowledge before it fall on their faces in humble prostration when the Quran is recited.
@@ -2150,7 +2150,7 @@
 - **Ibrahim and his Father**: Ibrahim gently invites his father to Tawheed, but his father threatens to stone him.
 - **Separation**: Ibrahim leaves his family and is granted Ishaq and Yaqub as a reward for his migration.
 
-## Page 309 ۩ (19:52–64)
+## Page 309 (19:52–64) ۩
 - **The Prophets**: Mention of Musa (called from the right side of the Mount), Isma’il (true to his promise), and Idris (raised to a high station).
 - **The Successors**: Later generations neglected prayer and followed lusts; they will meet destruction except those who repent.
 - **Paradise**: Described as the Gardens of Eternity where no "idle talk" is heard.
@@ -2291,7 +2291,7 @@
 - **The Barren Earth**: Another sign of resurrection is the dead earth coming to life with rain.
 - **Worship on the Edge**: Describing those who worship Allah "on an edge"—if good befalls them, they are content; if a trial hits, they turn back to disbelief, losing both worlds.
 
-## Page 334 ۩ (22:16–23)
+## Page 334 (22:16–23) ۩
 - **Judgment**: Allah will judge between the Jews, Sabians, Christians, Magians, and Polytheists on the Day of Resurrection.
 - **Universal Prostration**: Everything in the heavens and earth, including the sun, moon, stars, and mountains, prostrates to Allah.
 - **The Contrast**: The garments of fire for the disbelievers versus the silk and pearls for those in Paradise.
@@ -2327,7 +2327,7 @@
 - **Human Ingratitude**: He is the One who gave you life, then causes you to die, then will bring you to life again; indeed, man is ungrateful.
 - **Debate**: If the disbelievers argue with the Prophet, he is told to say: "Allah knows best what you do."
 
-## Page 341 ۩ (22:73–78)
+## Page 341 (22:73–78) ۩
 - **The Parable of the Fly**: A challenge to all false gods—they could not even create a fly, and if a fly took something from them, they couldn't recover it.
 - **Selection**: Allah chooses Messengers from the angels and from men.
 - **The Final Command**: Bow, prostrate, worship your Lord, and do good.
@@ -2460,7 +2460,7 @@
 - **Wind and Rain**: Allah sends the winds as heralds of His mercy and water from the sky to revive dead land.
 - **The Two Seas**: He released the two seas—one sweet and palatable, the other salty and bitter—with a barrier between them.
 
-## Page 365 ۩ (25:56–67)
+## Page 365 (25:56–67) ۩
 - **The Mission**: The Prophet asks for no reward except that people take a path to their Lord.
 - **Ibad-ur-Rahman**: The start of the famous passage describing the "Servants of the Most Merciful."
 - **Qualities**: They walk humbly on earth, respond with "Peace" to the ignorant, and spend their nights in prostration and standing (prayer).
@@ -2534,7 +2534,7 @@
 - **Sulayman’s Army**: He is taught the speech of birds. He marches with an army of Jinn, men, and birds.
 - **The Ant**: An ant warns its colony to hide so Sulayman does not crush them. Sulayman smiles at her speech and prays for gratitude.
 
-## Page 379 ۩ (27:23–35)
+## Page 379 (27:23–35) ۩
 - **The Hoopoe**: The bird returns from **Sheba** (Saba) with news of a Queen (Bilqis) whose people worship the sun.
 - **The Letter**: Sulayman sends a letter: _"In the name of Allah, the Entirely Merciful, the Especially Merciful... do not be haughty but come to me in submission."_
 - **The Gift**: Queen Bilqis decides to send a gift to test Sulayman’s intentions.
@@ -2737,7 +2737,7 @@
 - **The Creation of Man**: He began man's creation from clay and gave him hearing, sight, and a soul.
 - **Death**: The "Angel of Death" is entrusted with taking the souls.
 
-## Page 416 ۩ (32:12–20)
+## Page 416 (32:12–20) ۩
 - **Regret**: The criminals will wish to return to do good, but it will be too late.
 - **The Prostration**: The true believers are those who, when reminded of the verses, fall in prostration and avoid arrogance.
 - **The Night**: They "forsake their beds" to pray in fear and hope.
@@ -2937,7 +2937,7 @@
 - **The Chiefs**: The leaders of the Quraysh urge their people to be steadfast in worshipping their idols, claiming the Prophet's message is a "fabrication."
 - **Warning**: A reminder of the destruction of previous nations who cried out in regret when it was too late.
 
-## Page 454 ۩ (38:17–26)
+## Page 454 (38:17–26) ۩
 - **Dawud**: A servant of great strength who always turned to Allah.
 - **The Mountains and Birds**: Allah subjected the mountains and birds to glorify Him alongside Dawud every morning and evening.
 - **The Litigants**: Two men (angels) climb the wall of Dawud's prayer chamber. One has 99 ewes and demands the single ewe of the other.
@@ -3082,7 +3082,7 @@
 - **Noisy Distraction**: The disbelievers say, "Do not listen to this Quran and make noise during its recital so that you may overcome."
 - **The Lowest**: The disbelievers will beg to see the ones among Jinn and men who misled them so they can crush them under their feet.
 
-## Page 480 ۩ (41:30–38)
+## Page 480 (41:30–38) ۩
 - **Steadfastness**: For those who say, "Our Lord is Allah," and stay firm, angels descend at the time of death saying: **"Do not fear and do not grieve; but receive the glad tidings of Paradise."**
 - **The Best Speech**: Who is better in speech than one who invites to Allah, does righteousness, and says, "Indeed, I am of the Muslims"?
 - **Repelling Evil**: Repel evil with that which is better (_Ahsan_). This turns an enemy into a "devoted friend."
@@ -3414,7 +3414,7 @@
 - **Effort**: **"And that there is not for man except that [good] for which he strives."**
 - **The End**: To your Lord is the finality; He is the One who makes one laugh and weep, and He is the One who causes death and gives life.
 
-## Page 528 ۩ (53:45–54:6)
+## Page 528 (53:45–54:6) ۩
 
 - **Creation**: He created the pairs, male and female, from a sperm-drop.
 - **Destruction**: Mention of the destruction of 'Aad, Thamud, the people of Nuh, and the "overthrown cities" (Lut).
@@ -3816,7 +3816,7 @@
 - **'Illiyyun**: The record of the righteous is in 'Illiyyun, witnessed by those brought near to Allah.
 - **The Wine of Paradise**: They will be given a pure, sealed wine to drink, whose last remains are musk. "For this, let the competitors compete."
 
-## Page 589 (83:35–84:25)
+## Page 589 (83:35–84:25) ۩
 
 - **The Mockery**: On that Day, the believers will laugh at the disbelievers while reclining on couches.
 - **Start of Surah Al-Inshiqaq (The Splitting)**: When the heaven is split asunder and obeys its Lord.
@@ -3873,7 +3873,7 @@
 - **Start of Surah Ad-Duha (The Morning Brightness)**: A comfort to the Prophet ﷺ—his Lord has not forsaken him. The Hereafter is better for him than the first life. He was found an orphan and guided, poor and made self-sufficient.
 - **Start of Surah Ash-Sharh (The Opening of the Breast)**: **"For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."** When you finish your task, stand up for prayer and turn to your Lord.
 
-## Page 597 (95:1–96:19)
+## Page 597 (95:1–96:19) ۩
 
 - **Start of Surah At-Tin (The Fig)**: Oaths by the fig, olive, Sinai, and Makkah.
 - **Creation**: Man was created in the best of statures, then reduced to the lowest of the low, except the believers.

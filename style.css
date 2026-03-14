@@ -347,3 +347,9 @@ header {
     from { transform: translateY(-120%); }
     to { transform: translateY(0); }
 }
+
+.sajdah-mark {
+    font-size: 1.5em;
+    vertical-align: middle;
+    margin-left: 4px;
+}
