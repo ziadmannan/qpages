@@ -3635,3 +3635,289 @@
 
 * * *
 
+# Juz 29
+
+## Page 562 (67:1–12)
+
+- **Start of Surah Al-Mulk (The Sovereignty)**: "Blessed is He in whose hand is dominion."
+- **Life and Death**: Created to test **"which of you is best in deed."**
+- **The Seven Heavens**: Created in layers. Look for any flaw; your vision will return weary and defeated.
+- **Hell’s Roar**: When the disbelievers are thrown in, they hear its inhaling as it boils. Its keepers ask: "Did a warner not come to you?" They will regret not listening.
+
+## Page 563 (67:13–26)
+
+- **Omniscience**: Allah knows what you conceal; He is the Knower of that within the breasts.
+- **The Earth**: Made subservient for you to walk its paths and eat of His provision.
+- **Security**: Do you feel secure that He will not cause the earth to swallow you or send a storm of stones?
+- **Birds**: They spread and fold their wings in flight—none holds them up except the Most Merciful.
+
+## Page 564 (67:27–68:15)
+
+- **End of Surah Al-Mulk**: If your water were to sink into the earth, who could bring you flowing water?
+- **Start of Surah Al-Qalam (The Pen)**: Nun. By the pen and what they inscribe.
+- **Character**: **"And indeed, you are of a great moral character."**
+- **The Slanderers**: Do not obey the "despicable swearer," the slanderer, or the one who forbids good.
+
+## Page 565 (68:16–42)
+
+- **People of the Garden**: A parable of brothers who vowed to harvest their garden in the morning without saying "Insha'Allah" (if Allah wills), intending to deprive the poor.
+- **Destruction**: A fire from Allah destroyed it while they slept. When they saw it, they realized their transgression and blamed themselves.
+- **The Contrast**: The righteous will have Gardens of Pleasure.
+
+## Page 566 (68:43–69:8)
+
+- **End of Surah Al-Qalam**: The Prophet is told to be patient and not be like the "Companion of the Fish" (Yunus).
+- **Start of Surah Al-Haqqah (The Inevitable Reality)**: What is the Inevitable Reality?
+- **Destruction**: Mention of Thamud (destroyed by the shriek) and 'Aad (destroyed by a furious, cold wind for seven nights and eight days).
+
+## Page 567 (69:9–34)
+
+- **Pharaoh and Nuh**: Reminders of the drowning of the transgressors and the saving of the believers in the Ark.
+- **The Trumpet**: A single blast, the earth and mountains crushed.
+- **The Record**: He who is given his record in his **right hand** will say, "Here, read my record!" and enter a pleasant life.
+- **The Left Hand**: He who is given his record in his **left hand** will wish he was never given it and had died forever.
+
+## Page 568 (69:35–70:10)
+
+- **Punishment**: The sinner will have no friend and no food except the discharge of wounds (*Ghislin*).
+- **Verification**: The Quran is the word of a noble Messenger, not poetry or magic.
+- **Start of Surah Al-Ma'arij (The Ways of Ascent)**: A questioner asked about the punishment.
+- **The Day**: Its length is **50,000 years**. The Prophet is told to endure with "beautiful patience."
+
+## Page 569 (70:11–39)
+
+- **The Ransom**: The criminal will wish to ransom himself with his sons, spouse, brother, and all on earth just to be saved—but no.
+- **Man’s Nature**: Created anxious; impatient when evil touches him and stingy when good touches him.
+- **The Prayerful**: Except those constant in prayer, who give to the needy, and who guard their chastity.
+
+## Page 570 (70:40–71:10)
+
+- **End of Surah Al-Ma'arij**: Leave them to converse and play until they meet their Day.
+- **Start of Surah Nuh**: Nuh is sent to warn his people before a painful punishment.
+- **The Call**: He called them night and day, but they put their fingers in their ears and covered themselves with their garments in arrogance.
+
+## Page 571 (71:11–28)
+
+- **Rain and Wealth**: Nuh tells them that seeking forgiveness brings rain, wealth, children, and gardens.
+- **Creation**: Why do you not attribute majesty to Allah? He created you in stages and made the moon a light and the sun a lamp.
+- **Final Prayer**: Nuh asks Allah not to leave a single disbeliever on earth, as they only lead others astray.
+
+## Page 572 (72:1–13)
+
+- **Start of Surah Al-Jinn**: A group of Jinn listened to the Quran and said, "Indeed, we have heard an amazing Quran."
+- **Tawheed**: They realized Allah has no spouse or son and that the foolish among them (Iblis) told lies against Allah.
+- **The Heavens**: The Jinn used to sit in stations to eavesdrop, but now they find "piercing flames" (stars) guarding the heavens.
+
+## Page 573 (72:14–28)
+
+- **Jinn Groups**: Among Jinn are Muslims and those who are unjust.
+- **The Message**: If they had remained on the right way, Allah would have given them abundant water.
+- **The Prophet's Duty**: He has no power to harm or guide; his only duty is notification from Allah.
+- **The Unseen**: Allah is the Knower of the Unseen and does not disclose it except to a Messenger He has chosen.
+
+## Page 574 (73:1–19)
+
+- **Start of Surah Al-Muzzammil (The Enwrapped One)**: Arise to pray at night, except for a little.
+- **Recitation**: **"And recite the Quran with measured recitation (Tartil)."**
+- **Heavy Word**: A "heavy word" (the Quran) is being sent down.
+- **Patience**: Be patient with what they say and avoid them with "beautiful avoidance."
+
+## Page 575 (73:20–74:17)
+
+- **Night Prayer Ease**: Allah knows you cannot keep the night prayer strictly, so recite what is easy of it. Establish prayer and give Zakat.
+- **Start of Surah Al-Muddaththir (The Cloaked One)**: Arise and warn! Purify your clothes and avoid impurity.
+- **The Trumpet**: When the trumpet is blown, that Day will be difficult for the disbelievers.
+
+## Page 576 (74:18–47)
+
+- **The Thinker**: Description of a man (Walid b. Mughirah) who thought and plotted, then called the Quran "magic."
+- **Saqar (Hell)**: It leaves nothing and spares nothing, darkening the skins.
+- **The Number 19**: Over Hell are **nineteen angels**.
+- **The Question**: The people of Paradise ask the criminals: "What led you into Saqar?" They answer: "We were not of those who prayed, nor did we feed the poor..."
+
+## Page 577 (74:48–75:19)
+
+- **Intercession**: No intercession will benefit the deniers.
+- **Start of Surah Al-Qiyamah (The Resurrection)**: I swear by the Day of Resurrection and the self-reproaching soul (*Nafs al-Lawwamah*).
+- **Fingerprints**: Allah is able to proportion even his **fingertips**.
+- **Revelation**: The Prophet is told not to move his tongue hastily with the Quran; Allah will ensure its collection and recitation.
+
+## Page 578 (75:20–76:5)
+
+- **Faces**: On that Day, some faces will be radiant, looking at their Lord; other faces will be contorted in fear.
+- **The Soul's Departure**: When the soul reaches the collarbone and it is said, "Who will cure him?" and he realizes it is the parting.
+- **Start of Surah Al-Insan (Man)**: Has there not come over man a period of time when he was nothing mentioned?
+- **Testing**: We created man from a mixed drop to try him, making him hearing and seeing.
+
+## Page 579 (76:6–25)
+
+- **The Righteous**: They drink from a cup flavored with camphor.
+- **Qualities**: They fulfill their vows, fear the Day, and **"give food in spite of love for it to the needy, the orphan, and the captive,"** saying, "We feed you only for the face of Allah."
+- **Paradise**: They will be in shade with low-hanging fruits, served with silver vessels and crystal-clear cups.
+
+## Page 580 (76:26–77:19)
+
+- **End of Surah Al-Insan**: Prostrate to Him during the night. The disbelievers love this fleeting life and leave behind them a heavy Day.
+- **Start of Surah Al-Mursalat (Those Sent Forth)**: By the winds sent forth in succession.
+- **The Refrain**: **"Woe, that Day, to the deniers."** (Repeated 10 times).
+- **Signs**: Did We not create you from a worthless fluid?
+
+## Page 581 (77:20–50)
+
+- **Creation and Earth**: We made the earth a container for the living and the dead and placed firm mountains.
+- **The Shadow**: Walk toward a shadow of smoke having three columns, which offers no cool shade against the flame.
+- **Conclusion**: In what statement after the Quran will they believe?
+
+* * *
+
+# Juz 30
+
+## Page 582 (78:1–30)
+
+- **Start of Surah An-Naba' (The Tidings)**: "About what are they asking one another? About the Great News."
+- **Signs of Power**: Allah points to the earth as a bed, the mountains as pegs, and the sun as a burning lamp.
+- **The Trumpet**: On that Day, the heavens will open as gates and the mountains will vanish like a mirage.
+- **Hell**: A place of ambush for the transgressors, where they will stay for ages, tasting nothing but scalding water and foul purulence.
+
+## Page 583 (78:31–79:15)
+
+- **Paradise**: The righteous will have gardens, grapevines, and a full cup.
+- **The Spirit**: On that Day, the Spirit (Jibril) and the angels will stand in rows; none will speak except those permitted by the Most Merciful.
+- **Start of Surah An-Nazi'at (Those who Extract)**: By those who extract the soul violently and those who draw it out gently.
+- **The Heart**: On that Day, hearts will be throbbing with terror and eyes humbled.
+
+## Page 584 (79:16–46)
+
+- **Musa**: The story of Musa in the sacred valley of Tuwa and his call to Pharaoh, who claimed, "I am your most exalted lord."
+- **The Sky**: "Are you a more difficult creation or is the heaven? He constructed it."
+- **The Two Ends**: For the one who transgressed, Hell is the refuge. For the one who feared the standing before his Lord, Paradise is the refuge.
+
+## Page 585 (80:1–42)
+
+- **Start of Surah 'Abasa (He Frowned)**: The Prophet is gently corrected for frowning at a blind man (Abdullah ibn Umm Maktum) while busy with the chiefs of Quraish.
+- **The Soul's Provision**: Allah mentions the food He provides: grain, grapes, olives, and date palms as enjoyment for man and cattle.
+- **The Deafening Blast**: On that Day, a man will flee from his brother, his mother, his father, his wife, and his children.
+
+## Page 586 (81:1–29)
+
+- **Start of Surah At-Takwir (The Overthrowing)**: When the sun is wrapped up, the stars fall, and the mountains are moved.
+- **The Buried Daughter**: When the girl buried alive is asked for what sin she was killed.
+- **The Message**: The Quran is the word of a noble messenger (Jibril). Muhammad ﷺ is not mad; he truly saw Jibril on the clear horizon.
+
+## Page 587 (82:1–83:6)
+
+- **Start of Surah Al-Infitar (The Cleaving)**: When the heaven is cleft asunder and the graves are scattered.
+- **The Guardian Angels**: "Indeed, there are over you keepers, noble and recording."
+- **Start of Surah Al-Mutaffifin (The Defrauders)**: Woe to those who give less in measure and weight but take full measure for themselves.
+
+## Page 588 (83:7–34)
+
+- **Sijjin**: The record of the wicked is in Sijjin—a written book.
+- **'Illiyyun**: The record of the righteous is in 'Illiyyun, witnessed by those brought near to Allah.
+- **The Wine of Paradise**: They will be given a pure, sealed wine to drink, whose last remains are musk. "For this, let the competitors compete."
+
+## Page 589 (83:35–84:25)
+
+- **The Mockery**: On that Day, the believers will laugh at the disbelievers while reclining on couches.
+- **Start of Surah Al-Inshiqaq (The Splitting)**: When the heaven is split asunder and obeys its Lord.
+- **The Records**: He who is given his record in his **right hand** will have an easy reckoning. He who is given it **behind his back** will cry out for destruction.
+
+## Page 590 (85:1–22)
+
+- **Start of Surah Al-Buruj (The Mansions of the Stars)**: By the heaven containing great stars.
+- **People of the Ditch**: The story of the believers who were thrown into a trench of fire by a tyrant king for refusing to renounce their faith.
+- **The Guarded Tablet**: The Quran is a glorious Book, inscribed in a **Guarded Tablet** (*Lawh Mahfuz*).
+
+## Page 591 (86:1–87:15)
+
+- **Start of Surah At-Tariq (The Nightcomer)**: By the sky and the nightcomer (the piercing star).
+- **Creation**: Let man observe from what he was created—from a fluid ejected.
+- **Start of Surah Al-A'la (The Most High)**: "Exalt the name of your Lord, the Most High."
+- **The Soul's Success**: He has succeeded who purifies himself and remembers the name of his Lord and prays.
+
+## Page 592 (87:16–88:26)
+
+- **The Choice**: "But you prefer the worldly life, while the Hereafter is better and more enduring." This message was also in the scriptures of Ibrahim and Musa. (**Surah Al-A'la ends**).
+- **Start of Surah Al-Ghashiyah (The Overwhelming)**:
+
+- **The Wretched**: Some faces will be humbled, laboring, and exhausted, reaching a scorching Fire.
+- **The Blessed**: Other faces will be joyful, satisfied with their effort, in a lofty Garden where they hear no unsuitable speech.
+- **Signs**: Look at the camels—how they are created; the sky—how it is raised; and the mountains—how they are fixed.
+- **The Reminder**: The Prophet is a reminder, not a controller over them. To Allah is their final return and account.
+
+## Page 593 (89:1–23)
+
+- **Start of Surah Al-Fajr (The Dawn)**: Oaths by the dawn, the ten nights, the even and the odd.
+- **History**: Reminders of 'Aad (of Iram with lofty pillars), Thamud (who hollowed out rocks), and Pharaoh (of the stakes). They all transgressed and were punished.
+- **Trial**: When Allah tests man with wealth, he says, "My Lord has honored me." When tested with poverty, he says, "My Lord has humiliated me."
+- **Regret**: When the earth is pounded to dust and the King and angels arrive, man will remember, but how will the remembrance benefit him then?
+
+## Page 594 (89:24–90:20)
+
+- **The Soul at Peace**: "O reassured soul, return to your Lord, well-pleased and pleasing [to Him]." (**Surah Al-Fajr ends**).
+- **Start of Surah Al-Balad (The City)**: An oath by the city of Makkah.
+- **The Struggle**: Man was created in "constant struggle." He thinks no one has power over him.
+- **The Steep Path**: Success is the "steep path"—freeing a slave, feeding an orphaned relative or a needy person in time of hunger, and being among those who advise each other to patience and mercy.
+
+## Page 595 (91:1–92:14)
+
+- **Start of Surah Ash-Shams (The Sun)**: Oaths by the sun, moon, day, night, and the soul.
+- **The Soul**: **"He has succeeded who purifies it, and he has failed who instills it with corruption."**
+- **Thamud**: They rejected the Prophet Salih and hamstrung the She-camel, leading to their total destruction.
+- **Start of Surah Al-Layl (The Night)**: Oaths by the night and day.
+- **The Two Ways**: He who gives, fears Allah, and believes in the best reward will be eased toward ease. He who is stingy and thinks himself self-sufficient will be eased toward hardship.
+
+## Page 596 (92:15–94:8)
+
+- **Divine Guidance**: To Allah belongs the Beginning and the End. He warns of the blazing Fire. (**Surah Al-Layl ends**).
+- **Start of Surah Ad-Duha (The Morning Brightness)**: A comfort to the Prophet ﷺ—his Lord has not forsaken him. The Hereafter is better for him than the first life. He was found an orphan and guided, poor and made self-sufficient.
+- **Start of Surah Ash-Sharh (The Opening of the Breast)**: **"For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."** When you finish your task, stand up for prayer and turn to your Lord.
+
+## Page 597 (95:1–96:19)
+
+- **Start of Surah At-Tin (The Fig)**: Oaths by the fig, olive, Sinai, and Makkah.
+- **Creation**: Man was created in the best of statures, then reduced to the lowest of the low, except the believers.
+- **Start of Surah Al-'Alaq (The Clot)**: The first five verses revealed: **"Read in the name of your Lord who created..."**
+- **Arrogance**: Rebuking Abu Jahl for preventing the Prophet from praying.
+- **Command**: "No! Do not obey him. But prostrate and draw near [to Allah]."
+
+## Page 598 (97:1–98:7)
+
+- **Surah Al-Qadr**: The Quran was revealed on the **Night of Decree**, a night better than a thousand months where angels and the Spirit (Jibril) descend.
+- **Surah Al-Bayyinah (to v. 7)**: The disbelievers from the People of the Book and the polytheists would not desist until the "Clear Evidence" arrived. It describes those who disbelieve as the "worst of creatures" and those who believe and do good as the **"best of creatures."**
+
+## Page 599 (98:8–100:9)
+
+- **End of Surah Al-Bayyinah**: The reward for the believers is Gardens of eternity. Allah is pleased with them, and they are pleased with Him.
+- **Surah Az-Zalzalah**: The earth will shake and bring forth its "burdens." Every person will see even an **atom's weight** of good or evil they have done.
+- **Surah Al-'Adiyat (to v. 9)**: By the panting war-horses. A strike against human ingratitude and the love of wealth, reminding us of the Day when the contents of the graves are scattered.
+
+## Page 600 (100:10–102:8)
+
+- **End of Surah Al-'Adiyat**: Reminding that the secrets of the hearts will be made manifest and Allah is fully Aware of them.
+- **Surah Al-Qari'ah**: The "Striking Calamity." People will be like scattered moths and mountains like fluffed wool. The heavy scales of good deeds lead to bliss; light scales lead to the Abyss.
+- **Surah At-Takathur**: Rebuking the competition for worldly increase that diverts people until they reach the graves. You will be asked about the pleasures you enjoyed.
+
+## Page 601 (103:1–105:5)
+
+- **Surah Al-'Asr**: By Time, all of humanity is in loss except those with faith, good deeds, and who advise each other to truth and patience.
+- **Surah Al-Humazah**: Woe to the slanderer and backbiter who hoards wealth; he will be thrown into the "Crusher" (*Hutamah*).
+- **Surah Al-Fil**: The story of the "People of the Elephant" and how Allah sent flocks of birds to destroy them with stones of clay.
+
+## Page 602 (106:1–108:3)
+
+- **Surah Quraish**: A call for the Quraish to worship the Lord of the Kaaba who secured them from hunger and fear.
+- **Surah Al-Ma'un**: Characteristics of the denier of faith: he neglects the orphan and the poor, and is heedless and "showy" in his prayer.
+- **Surah Al-Kawthar**: The Prophet ﷺ is granted "Abundance" (Al-Kawthar). He is told to pray and sacrifice, for his hater is the one "cut off."
+
+## Page 603 (109:1–111:5)
+
+- **Surah Al-Kafirun**: The absolute refusal to compromise in worship: "To you is your religion, and to me is my religion."
+- **Surah An-Nasr**: When victory and the conquest come, celebrate the praise of your Lord and ask for His forgiveness.
+- **Surah Al-Masad**: The condemnation of Abu Lahab and his wife (the "carrier of firewood") for their persecution of the Prophet ﷺ.
+
+## Page 604 (112:1–114:6)
+
+- **Surah Al-Ikhlas**: The declaration of Allah's Oneness—He is the Eternal Refuge, neither begetting nor born.
+- **Surah Al-Falaq**: Seeking refuge from the evil of darkness, sorcery, and envy.
+- **Surah An-Nas**: Seeking refuge from the "retreating whisperer" who whispers into the hearts of mankind.
