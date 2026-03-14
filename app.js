@@ -1,7 +1,6 @@
 /* --- Global State --- */
 let juzData = [];
 let currentJuzIndex = -1;
-let touchStartX = 0;
 let pageInJuzCounter = 0;
 
 /* --- Marked.js Configuration --- */
@@ -249,20 +248,6 @@ async function initApp() {
         document.getElementById('loader').innerText = "Error loading data.md";
     }
 }
-
-/* --- Gestures & PWA --- */
-document.addEventListener('touchstart', e => { touchStartX = e.changedTouches[0].screenX; });
-document.addEventListener('touchend', e => {
-    if (currentJuzIndex === -1) return;
-    const diff = touchStartX - e.changedTouches[0].screenX;
-    if (Math.abs(diff) > 100) {
-        if (diff > 0 && currentJuzIndex < juzData.length - 1) {
-            window.location.hash = `#juz-${currentJuzIndex + 1}`;
-        } else if (diff < 0 && currentJuzIndex > 0) {
-            window.location.hash = `#juz-${currentJuzIndex - 1}`;
-        }
-    }
-});
 
 /* --- Installation Logic --- */
 let deferredPrompt;
